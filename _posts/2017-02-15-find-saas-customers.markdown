@@ -70,7 +70,7 @@ Just be sure your lead magnet product is valuable, it’s something your visitor
 
 Now here’s what most people think is the tricky part – how do you redirect exiting visitors to your lead page? The good news is you don’t need to create any code or have any technical experience.
 
-> [**Just use CatchaMonkey, which will handle all the redirects for you.**](https://hookengine.samcart.com/products/predictable-hook-triggers/)
+**Just use CatchaMonkey, which will handle all the redirects for you.**
 
 It’s pretty darn easy.
 
@@ -84,7 +84,7 @@ However, while most marketers want more traffic, there’s also a good chunk of 
 
 Are you making these deadly traffic and marketing mistakes too? Find out by reading on…
 
-Mistake 1: Cherry-Picking Traffic Methods
+**Mistake 1: Cherry-Picking Traffic Methods**
 
 You’ve probably read a ton of books, blog posts, articles and other materials about getting traffic. Maybe you’ve even started developing a plan for which traffic methods you’re going to use and which ones you’re going to skip.
 
@@ -107,7 +107,7 @@ You thumb your nose at social media, even though your target market is young and
 So what if there is a traffic method that you don’t really feel like doing? Then hire someone to do it for you. Because if you want to build a thriving business, don’t skip over a promising traffic method just because you don’t feel like doing it yourself.
 
 
-Mistake 2: Not Being Consistent
+**Mistake 2: Not Being Consistent**
 
 Sometimes marketers start off really enthusiastic about driving traffic to their site.  They start running ads, doing content swaps, blogging, setting up a Facebook page, optimizing their pages for the search engines, setting up an affiliate program… and so on.
 
@@ -150,7 +150,7 @@ In short: Small steps on a consistent basis lead to big results over time.
 
 And now the third mistake…
 
-Mistake 3: Skipping the Tracking and Testing
+**Mistake 3: Skipping the Tracking and Testing**
 
 Many marketers waste a lot of time and money chasing after advertising strategies that simply don’t work for them. Maybe they’re using ineffective ads or calls to action. Maybe their lead pages suck. Or maybe they’re even posting ads in places where they’re getting very little action.
 
@@ -171,9 +171,9 @@ Conclusion
 
 These three mistakes seem pretty simple, and yet you’ll face dismal amounts of traffic if you make these mistakes too. So be sure to test everything, diversify your traffic methods, and take consistent steps every day to build your traffic.
 
-Of course the question is, what all should you be doing to build traffic? And another one: what is the best way to bring in targeted traffic?
+Of course the question is, what else should you be doing to build traffic? And another one: what is the best way to bring in targeted traffic?
 
-The answers to these questions can make or break your business, which is why you’ll want to get your answers from the best source around:  LINK TO YOUR OFFER HERE.
+The answers to these questions can make or break your business, which is why you’ll want to get your answers from the best source around: [20 Predictable Hook Triggers](https://rkcudjoe.withcoach.com/predictable-hook-triggers.html)
 
 But don’t take my word for it – check it out for yourself by clicking the link above to find out what you’ve been missing. And do it now, before this very special offer disappears.
 
