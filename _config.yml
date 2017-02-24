@@ -49,10 +49,10 @@ defaults:
 # Authors
 authors:
   rkcudjoe:
-    name:             Raymond Cudjoe
-    bio:              Lead Product Developer @ HookOps. We'll make your small SaaS app eat the competition's lunch, with less code. And show you how to do the same.
+    name:             HookOps Team
+    bio:              Lead Product Developer @ HookOps. We make small SaaS apps eat the competition's lunch with less code. And show you how to do the same.
     gravatar:         https://en.gravatar.com/userimage/51414702/ebe3b1cdeca3eccf75c1d8725980a53d.jpeg
-    email:            rkcudjoe@hookops.com
+    email:            rkcudjoe+consulting@hookops.com
     website:          http://consulting.hookops.com
-    github_username:  rkcudjoe
-    twitter_username: rkcudjoe
+    github_username:  hookops
+    twitter_username: hookops
