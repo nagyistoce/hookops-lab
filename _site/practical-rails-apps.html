@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>You're NOT Good Enough To Build Practical Rails and Ruby Apps?</title>
+  <meta name="description" content="Let's make your small SaaS app eat competitors' lunch.">
+  <link rel="canonical" href="http://blog.excelwithcode.com/practical-rails-apps.html">
+  <link rel="alternate" type="application/rss+xml" title="re:Profit Lab" href="http://blog.excelwithcode.com/feed.xml">
+  <style type="text/css">
+    
+    /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:0.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace, monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}*,*:before,*:after{box-sizing:border-box}.wrapper{padding:25px 0}@media only screen and (min-width: 64.063em){.wrapper{padding:32px 0;margin-left:250px}}.off-canvas-container{display:flex;min-height:100vh;flex-direction:column}.off-canvas-container .wrapper{flex:1 0 auto}.icon{vertical-align:bottom}@font-face{font-family:'Born';src:url("/fonts/Born/Born.eot");src:url("/fonts/Born/Born.woff2") format("woff2"),url("/fonts/Born/Born.woff") format("woff"),url("/fonts/Born/Born.ttf") format("truetype"),url("/fonts/Born/Born.svg#Born") format("svg"),url("/fonts/Born/Born.eot?#iefix") format("embedded-opentype");font-weight:normal;font-style:normal}body{color:#222;background-color:#fff;font-size:19px;font-weight:300;font-family:Born,Georgia,serif;line-height:32px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}h1,h2,h3,h4,h5,h6{font-family:Born,Georgia,serif;font-size:19px;font-weight:300;margin:0 0 25px}@media only screen and (max-width: 40em){h1,h2,h3,h4,h5,h6{font-size:16px}}h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{text-decoration:none}.post-content h1{font-size:32px}.post-content h2{font-size:28px}.post-content h3{font-size:26px}.post-content h4{font-size:22px}.post-content h5{font-size:19px}.post-content li{margin:0 0 12.5px}p{margin:0 0 32px}p.font-medium{margin:0 0 25px}p.font-small{margin:0 0 22px}p.font-tiny{margin:0 0 19px}@media only screen and (max-width: 40em){p{margin:0 0 25px}}blockquote{margin:0;padding:0 64px 0 64px;font-style:italic}@media only screen and (max-width: 40em){blockquote{padding:0 44px 0 44px}}hr{border:0;height:1px;background-color:#ECF0F1;margin:0 0 32px}@media only screen and (max-width: 40em){hr{margin:0 0 25px}}ul,ol{margin:0 0 32px}ul ul,ul ol,ol ul,ol ol{margin:0}@media only screen and (max-width: 40em){ul,ol{margin:0 0 25px}}a{color:#222;transition:.4s}a:visited{color:#222}a:hover{color:#7E7E7E}a:active{color:#222}a.custom{text-decoration:none}.box{padding-bottom:25px;margin-bottom:25px;overflow:hidden;border-bottom:1px solid #ECF0F1}@media only screen and (min-width: 64.063em){.box{padding-bottom:32px;margin-bottom:32px}}.box--news-letter input[type='email']{margin-bottom:0}.box__icon{float:left;width:32px;margin-right:10.66667px}.box__title{margin:0;font-weight:300;line-height:25px}@media only screen and (min-width: 40.063em){.box__body{overflow:hidden}}.box__text{margin-top:11px;margin-bottom:0;font-size:14px;line-height:22px}.box a{text-decoration:none}.box--author,.box--news-letter{padding:25px;background-color:#FAFAFA}@media only screen and (min-width: 64.063em){.box--author,.box--news-letter{padding:32px}}img,iframe{display:block}img{height:auto;max-width:100%}.post-content img,.post-content iframe,.post-content .fluid-width-video-wrapper,.post-content .twitter-tweet{margin-bottom:25px !important}@media only screen and (max-width: 40em){.post-content img,.post-content iframe,.post-content .fluid-width-video-wrapper,.post-content .twitter-tweet{margin-bottom:22px}}.post-content p img{margin-bottom:0}.post__tags{margin-bottom:28px;font-size:14px}.post__tags a{padding:3px 11px;margin:4px 8px 4px 0;display:inline-block;font-size:12px;line-height:22px;color:#7E7E7E;border:1px solid #ECF0F1;text-decoration:none;transition:.4s}.post__tags a:before{content:"#";padding-right:2px}.post__tags a:hover{color:#222;border-color:#222}pre,code{font-family:Courier,monospace;background-color:#FAFAFA}pre{overflow:auto;margin-top:0;margin-bottom:32px;padding:32px;font-size:16px;white-space:pre-wrap;word-wrap:break-word}@media only screen and (max-width: 40em){pre{margin-bottom:22px;padding:25px}}p code{padding:3px 6px}.row{margin:0 auto;padding-left:13px;padding-right:13px;max-width:1100px}.row:before,.row:after{display:table;clear:both;content:" "}.row .row{padding:0;margin-right:-13px;margin-left:-13px}@media only screen and (min-width: 64.063em){.row .row{margin-right:-16px;margin-left:-16px}}@media only screen and (min-width: 64.063em){.row{padding-left:16px;padding-right:16px}}.row--full{max-width:100%}.column{position:relative;float:left;padding-right:13px;padding-left:13px;width:100%}@media only screen and (min-width: 64.063em){.column{padding-right:16px;padding-left:16px}}.column--center{float:none;margin:0 auto}@media only screen{.small-1{width:8.33333%}.small-2{width:16.66667%}.small-3{width:25%}.small-4{width:33.33333%}.small-5{width:41.66667%}.small-6{width:50%}.small-7{width:58.33333%}.small-8{width:66.66667%}.small-9{width:75%}.small-10{width:83.33333%}.small-11{width:91.66667%}.small-12{width:100%}}@media only screen and (min-width: 40.063em){.medium-1{width:8.33333%}.medium-2{width:16.66667%}.medium-3{width:25%}.medium-4{width:33.33333%}.medium-5{width:41.66667%}.medium-6{width:50%}.medium-7{width:58.33333%}.medium-8{width:66.66667%}.medium-9{width:75%}.medium-10{width:83.33333%}.medium-11{width:91.66667%}.medium-12{width:100%}}@media only screen and (min-width: 64.063em){.large-1{width:8.33333%}.large-2{width:16.66667%}.large-3{width:25%}.large-4{width:33.33333%}.large-5{width:41.66667%}.large-6{width:50%}.large-7{width:58.33333%}.large-8{width:66.66667%}.large-9{width:75%}.large-10{width:83.33333%}.large-11{width:91.66667%}.large-12{width:100%}}input[type='text'],input[type='tel'],input[type='number'],input[type='email'],textarea{width:100%;max-width:100%;margin-bottom:0;display:inline-block;border:1px solid #222;margin-bottom:8px;padding:6px 11px;font-family:Born,Georgia,serif;font-size:14px;line-height:25px;letter-spacing:1px;outline:none;background:transparent;appearance:none;border-radius:0;transition:.4s}@media only screen and (min-width: 64.063em){input[type='text'],input[type='tel'],input[type='number'],input[type='email'],textarea{padding:8px 16px}}input[type='text']:focus,input[type='tel']:focus,input[type='number']:focus,input[type='email']:focus,textarea:focus{border:1px solid #7E7E7E}.button{display:inline-block;text-align:center;padding:8px 16px;font-family:Born,Georgia,serif;font-size:12px;line-height:25px;letter-spacing:1px;border:0;border-radius:0;text-decoration:none;color:#fff;background-color:#222;transition:.4s}.button--expand{width:100%}.button:active,.button:focus,.button:hover{color:#fff;background-color:#7E7E7E}.separator{position:relative;margin:32px auto;text-align:center;text-transform:uppercase;font-size:14px;font-weight:300;letter-spacing:1px}.separator:after{position:absolute;right:0;left:0;top:50%;content:"";border-bottom:1px solid #ECF0F1}.separator__title{position:relative;z-index:1;padding:0px 16px;background:#FFF none repeat scroll 0% 0%}@-webkit-keyframes spin{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes spin{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}.icon{position:relative;display:inline-block;width:25px;height:25px;overflow:hidden;fill:currentColor}.icon__cnt{width:100%;height:100%;background:inherit;fill:inherit;pointer-events:none;transform:translateX(0);-ms-transform:translate(0.5px, -0.3px)}.icon--m{width:50px;height:50px}.icon--l{width:100px;height:100px}.icon--xl{width:150px;height:150px}.icon--xxl{width:200px;height:200px}.icon__spinner{position:absolute;top:0;left:0;width:100%;height:100%}.icon--ei-spinner .icon__spinner,.icon--ei-spinner-2 .icon__spinner{-webkit-animation:spin 1s steps(12) infinite;animation:spin 1s steps(12) infinite}.icon--ei-spinner-3 .icon__spinner{-webkit-animation:spin 1.5s linear infinite;animation:spin 1.5s linear infinite}.icon--ei-sc-facebook{fill:#3b5998}.icon--ei-sc-github{fill:#333}.icon--ei-sc-google-plus{fill:#dd4b39}.icon--ei-sc-instagram{fill:#3f729b}.icon--ei-sc-linkedin{fill:#0976b4}.icon--ei-sc-odnoklassniki{fill:#ed812b}.icon--ei-sc-skype{fill:#00aff0}.icon--ei-sc-soundcloud{fill:#f80}.icon--ei-sc-tumblr{fill:#35465c}.icon--ei-sc-twitter{fill:#55acee}.icon--ei-sc-vimeo{fill:#1ab7ea}.icon--ei-sc-vk{fill:#45668e}.icon--ei-sc-youtube{fill:#e52d27}.icon--ei-sc-pinterest{fill:#bd081c}.icon--ei-sc-telegram{fill:#0088cc}.post-card{margin-bottom:25px;padding-bottom:25px;border-bottom:1px solid #ECF0F1;text-align:center}.post-card__image{margin-bottom:16px;transition:.4s}@media only screen and (max-width: 40em){.post-card__image{margin-bottom:13px}}.post-card__title{line-height:25px;margin-top:0;margin-bottom:0}.post-card__title a{display:block;border-bottom:none;transition:.4s}.post-card__title a:hover{color:#a60505}.post-card__meta{margin-bottom:8px;font-size:12px;line-height:22px;color:#7E7E7E}.post-card__meta a{color:#7E7E7E;text-decoration:none}.post-card:hover .post-card__image{opacity:0.9}.post-card:hover .post-card__title a{color:#a60505}.post-card--featured__icon{position:absolute;bottom:8px;left:8px;fill:#fff}@media only screen and (min-width: 64.063em){.post-card{margin-bottom:32px;padding-bottom:32px}}.post-list{display:flex;flex-wrap:wrap;display:-webkit-flex;-webkit-flex-wrap:wrap}.post-list .post-card-wrap{display:flex;display:-webkit-flex}.post-list .post-card{width:100%}.share-list{display:flex;display:-webkit-box;display:-ms-flexbox;padding:0;border:1px solid #ECF0F1;margin-bottom:32px;line-height:22px;list-style:none}.share-list li{flex:1;-ms-flex:1;-webkit-box-flex:1;text-align:center;margin:0;border-right:1px solid #ECF0F1}.share-list li:last-child{border-right:0}.share-list__link{display:block;padding:8px;font-size:14px;transition:.4s}.share-list__link:hover{background-color:#FAFAFA}.share-list__link:hover .share-list__icon--twitter{fill:#55acee}.share-list__link:hover .share-list__icon--facebook{fill:#3b5998}.share-list__link:hover .share-list__icon--google{fill:#dc4e41}.share-list__icon{fill:#222}@media only screen and (max-width: 40em){.share-list{margin-bottom:25px}}.FlexEmbed{display:block;overflow:hidden;position:relative}.FlexEmbed:before{content:"";display:block;width:100%}.FlexEmbed--3by1:before{padding-bottom:33.33333%}.FlexEmbed--2by1:before{padding-bottom:50%}.FlexEmbed--16by9:before{padding-bottom:56.25%}.FlexEmbed--4by3:before{padding-bottom:75%}.CoverImage{max-height:600px;max-width:100%;background-position:50%;background-repeat:no-repeat;background-size:cover}.highlight{margin:0;background:#fff}.highlighter-rouge .highlight{background:#FAFAFA}.highlight .c{color:#998;font-style:italic}.highlight .err{color:#a61717;background-color:#e3d2d2}.highlight .k{font-weight:bold}.highlight .o{font-weight:bold}.highlight .cm{color:#998;font-style:italic}.highlight .cp{color:#999;font-weight:bold}.highlight .c1{color:#998;font-style:italic}.highlight .cs{color:#999;font-weight:bold;font-style:italic}.highlight .gd{color:#000;background-color:#fdd}.highlight .gd .x{color:#000;background-color:#faa}.highlight .ge{font-style:italic}.highlight .gr{color:#a00}.highlight .gh{color:#999}.highlight .gi{color:#000;background-color:#dfd}.highlight .gi .x{color:#000;background-color:#afa}.highlight .go{color:#888}.highlight .gp{color:#555}.highlight .gs{font-weight:bold}.highlight .gu{color:#aaa}.highlight .gt{color:#a00}.highlight .kc{font-weight:bold}.highlight .kd{font-weight:bold}.highlight .kp{font-weight:bold}.highlight .kr{font-weight:bold}.highlight .kt{color:#458;font-weight:bold}.highlight .m{color:#099}.highlight .s{color:#d14}.highlight .na{color:teal}.highlight .nb{color:#0086B3}.highlight .nc{color:#458;font-weight:bold}.highlight .no{color:teal}.highlight .ni{color:purple}.highlight .ne{color:#900;font-weight:bold}.highlight .nf{color:#900;font-weight:bold}.highlight .nn{color:#555}.highlight .nt{color:navy}.highlight .nv{color:teal}.highlight .ow{font-weight:bold}.highlight .w{color:#bbb}.highlight .mf{color:#099}.highlight .mh{color:#099}.highlight .mi{color:#099}.highlight .mo{color:#099}.highlight .sb{color:#d14}.highlight .sc{color:#d14}.highlight .sd{color:#d14}.highlight .s2{color:#d14}.highlight .se{color:#d14}.highlight .sh{color:#d14}.highlight .si{color:#d14}.highlight .sx{color:#d14}.highlight .sr{color:#009926}.highlight .s1{color:#d14}.highlight .ss{color:#990073}.highlight .bp{color:#999}.highlight .vc{color:teal}.highlight .vg{color:teal}.highlight .vi{color:teal}.highlight .il{color:#099}@media only screen and (min-width: 64.063em){.navigation{margin-bottom:25px;padding-bottom:25px;border-bottom:1px solid #DADFE1}}.navigation li{display:block;margin-bottom:8px;font-size:14px;line-height:25px}.navigation li:last-child{margin-bottom:0}@media only screen and (max-width: 64em){.navigation li{display:block;text-align:center;margin-right:0;line-height:32px}}.navigation a{transition:.4s;text-decoration:none}@media only screen and (max-width: 64em){.navigation a{display:block;padding-top:8px;padding-bottom:8px;border-bottom:1px solid #ECF0F1}}@media only screen and (max-width: 64em){.navigation{margin-bottom:8px}}.social-nav{margin-bottom:25px;list-style:none;padding:0}.social-nav .icon{vertical-align:-moz-middle-with-baseline;vertical-align:-webkit-baseline-middle;fill:#222;transition:.4s}.social-nav .icon:hover{fill:#7E7E7E}.social-nav li{display:inline-block}@media only screen and (max-width: 64em){.social-nav{text-align:center}}.pagination{clear:both;font-size:12px;line-height:25px}.pagination span,.pagination .icon{position:relative}.pagination .newer-posts{float:left;text-align:left}.pagination .newer-posts span,.pagination .newer-posts .icon{left:-8.33333px}.pagination .older-posts{float:right;text-align:right}.pagination .older-posts span,.pagination .older-posts .icon{right:-8.33333px}.pagination a{text-decoration:none;text-transform:uppercase;letter-spacing:.2em;transition:.4s}.post-navigation{flex-grow:1}.post-navigation .post-card{border-bottom:0;margin-bottom:0}.post-navigation:before{position:absolute;z-index:1;content:"";top:16px;padding:0 16px;font-size:14px;color:#7E7E7E;background-color:rgba(255,255,255,0.9);transition:.4s}.post-navigation.prev:before{left:32px;content:"Previous Story"}.post-navigation.next:before{right:32px;content:"Next Story"}.post-navigation:hover:before{background-color:#fff}.sidebar{padding:13px 0;line-height:25px}@media only screen and (max-width: 64em){.sidebar{background-color:#fff;border-bottom:1px solid #ECF0F1}}@media only screen and (min-width: 64.063em){.sidebar{position:fixed;top:0;left:0;width:250px;height:100%;background-color:#FAFAFA;padding:32px 0;display:flex;align-items:center;text-align:center}}.sidebar__name{margin-bottom:8px;letter-spacing:1;line-height:1.09em;font-size:34px;font-weight:bold}.sidebar__name a{transition:.4s;text-decoration:none;letter-spacing:1px}.sidebar__name a:hover{color:#7E7E7E}@media only screen and (max-width: 64em){.sidebar__name{display:none}}.sidebar__logo{margin-bottom:8px;letter-spacing:1;line-height:1.09em;font-size:32px;font-weight:bold}.sidebar__logo a{transition:.4s;text-decoration:none;letter-spacing:1px}.sidebar__logo a:hover{color:#7E7E7E}@media only screen and (max-width: 64em){.sidebar__logo{margin-bottom:0;line-height:25px}}.sidebar__description{margin-bottom:25px;padding-bottom:25px;border-bottom:1px solid #DADFE1;font:30px "Lora", serif;font-style:italic}@media only screen and (max-width: 64em){.sidebar__description{display:none}}.sidebar__bottom{text-align:center}@media only screen and (min-width: 64.063em){.sidebar__bottom{position:absolute;right:0;left:0;bottom:32px}}@media only screen and (max-width: 64em){.home-template .sidebar{border-bottom:1px solid #ECF0F1}}.off-canvas-toggle{display:none}@media only screen and (max-width: 64em){.off-canvas-toggle{float:right;display:block;margin-right:8px;font-size:14px;cursor:pointer}}@media only screen and (max-width: 64em){html,body{overflow-x:hidden}.off-canvas-content{position:fixed;top:0;right:0;width:250px;height:100%;background-color:#fff;border-left:1px solid #ECF0F1;-webkit-transform:translate3d(0px, 0px, 0px) translateX(250px);transform:translate3d(0px, 0px, 0px) translateX(250px);-webkit-transition:all .4s cubic-bezier(0.16, 0.63, 0.45, 0.98) 0s;transition:all .4s cubic-bezier(0.16, 0.63, 0.45, 0.98) 0s}.off-canvas-container{-webkit-transform:translate3d(0, 0, 0) translateX(0);transform:translate3d(0, 0, 0) translateX(0);-webkit-transition:all .4s cubic-bezier(0.16, 0.63, 0.45, 0.98) 0s;transition:all .4s cubic-bezier(0.16, 0.63, 0.45, 0.98) 0s}.off-canvas-container.is-active{-webkit-transform:translate3d(0px, 0px, 0px) translateX(-250px);transform:translate3d(0px, 0px, 0px) translateX(-250px)}}.search-form-container{position:fixed;top:0;right:0;bottom:0;left:0;z-index:101;white-space:nowrap;background:#fff;opacity:0;visibility:hidden;transition:all .4s ease-in-out;transform:translate(0px, -100%) scale(0, 0)}.search-form-container__close{position:absolute;top:32px;right:32px;width:32px;height:32px;cursor:pointer;text-align:center}.search-form-container__close .icon{vertical-align:text-top;transition:.4s;fill:#222}.search-form-container__close .icon:hover{fill:#7E7E7E;transform:rotate(90deg)}@media only screen and (max-width: 40em){.search-form-container__close{top:16px;right:16px}}.search-form-container.is-active{opacity:1;visibility:visible;transform:translate(0px, 0px) scale(1, 1)}.search-form{margin-bottom:16px}.search-form__field{padding:0;width:100%;outline:none;font-size:38px;line-height:64px;border:0;border-bottom:1px solid #ECF0F1}@media only screen and (max-width: 40em){.search-form__field{font-size:28px;line-height:44px}}.search-form__field:focus{border:0;border-bottom:1px solid #ECF0F1}.search-form__submit{display:none}.search-form__fieldset{border:0;margin-top:64px;padding:0}.search-results{display:none;height:80vh;overflow:auto;white-space:normal}.search-results .heading{margin-right:16px;margin-bottom:16px;color:#7E7E7E}.search-results__item{margin-bottom:16px;margin-right:16px;padding-bottom:16px;border-bottom:1px solid #ECF0F1}.search-results__item__title{display:block;text-decoration:none;font-size:16px;line-height:25px}.search-results__item__date{font-size:12px;line-height:22px;color:#7E7E7E}.author-image{float:left;margin:0;margin-right:25px}.author-image .img{height:96px;width:96px;background-position:center;background-size:cover;border-radius:100%}@media only screen and (max-width: 40em){.author-image .img{height:64px;width:64px}}@media only screen and (min-width: 64.063em){.author-image{margin-right:32px}}.author-meta{text-indent:-1px}.author-meta .icon{fill:#222;transition:.4s}.author-meta a .icon:hover{fill:#7E7E7E}.post{position:relative;padding:32px;margin:0 auto;max-width:45em;background:#fff}@media only screen and (min-width: 40.063em){.post{top:-64px}}@media only screen and (min-width: 64.063em){.post{top:-96px;padding:64px}}.post__header{margin-bottom:13px;text-align:center}.post__title{margin-bottom:13px;font-size:32px;line-height:50px}@media only screen and (max-width: 40em){.post__title{font-size:19px;line-height:32px}}.post__date{font-size:14px;line-height:22px;color:#7E7E7E}.post-content{margin-top:25px}.grey-bg{background-color:#FAFAFA}.no-bullets,.list-bare{list-style:none}.bullets-inside{list-style:inside}.list-bare{margin:0;padding:0}.text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}.text-justify{text-align:justify}.inline{display:inline}.block{display:block}.inline-block{display:inline-block}.hide{display:none}.left{float:left}.right{float:right}.hidden{border:0 none;clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;padding:0;position:absolute !important;width:1px}.clearfix:before,.clearfix:after{content:" ";display:table}.clearfix:after{clear:both}.light{font-weight:300}.regular{font-weight:400}.bold{font-weight:700}.italic{font-style:italic}.cap{text-transform:capitalize}.uppercase{text-transform:uppercase}.ell{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.font-base{font-size:19px}.font-medium{font-size:16px;line-height:25px}.font-small{font-size:14px;line-height:22px}.font-tiny{font-size:12px;line-height:19px}
+
+  </style>
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:800,600,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <script>
+    var base_url = "";
+  </script>
+</head>
+
+<body>
+
+  <!-- Google Analytics Code -->
+
+  <div class="off-canvas-container">
+    <div class="sidebar">
+  <div class="row">
+
+    <div class="column small-10 large-12">
+    <h1 class="sidebar__name">HookOps</h1>
+      <h1 class="sidebar__logo logo"><a href="/">re:Profit Lab</a></h1>
+      <div class="sidebar__description font-small">Let's make your small SaaS app eat competitors' lunch.</div>
+    </div>
+
+    <label class="off-canvas-toggle"><span data-icon="ei-navicon" data-size="s"></span></label>
+
+    <div class="off-canvas-content">
+
+      <div class="column small-12 large-12">
+        <nav class="navigation">
+          <ul class="list-bare text-center">
+            
+              
+            
+              
+                
+              
+            
+              
+                
+              
+            
+              
+                
+                  <li>
+                    <a class="page-link" href="/practical-rails-apps.html">Start Here. Go Anywhere.</a>
+                  </li>
+                
+              
+            
+          </ul>
+        </nav>
+      </div>
+
+      <div class="column small-12 large-12">
+        <ul class="social-nav social-icons">
+          
+          <li>
+            <a href="http://www.github.com/hookops" target="_blank">
+              <span data-icon="ei-sc-github" data-size="s"></span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="http://www.twitter.com/hookops" target="_blank">
+              <span data-icon="ei-sc-twitter" data-size="s"></span>
+            </a>
+          </li>
+          
+
+          
+          <li>
+            <a href="mailto:rkcudjoe@hookops.com" target="_blank">
+              <span data-icon="ei-envelope" data-size="s"></span>
+            </a>
+          </li>
+          
+
+          <li>
+            <a class="toggle-search-button" href="#">
+              <span data-icon="ei-search" data-size="s"></span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="sidebar__bottom">
+        <div class="column small-12 large-12">
+          <div class="font-tiny">
+          &copy; 2017 HookOps, Inc</br>
+          Based in Union Square, NYC</br>
+          </div>
+        </div>
+      </div>
+
+    </div> <!-- off-canvas-content -->
+
+  </div>
+</div>
+
+<div class="search-form-container">
+
+  <form class="search-form">
+    <fieldset class="search-form__fieldset">
+      <div class="row">
+        <div class="column column--center large-8">
+          <input class="search-form__field" placeholder="Type to search" autofocus>
+          <input class="search-form__submit" type="submit" value="search">
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+  <div class="row">
+    <div class="column column--center large-8">
+      <div class="search-results"></div>
+    </div>
+  </div>
+
+  <div class="close-search-button search-form-container__close">
+    <span data-icon="ei-close" data-size="s"></span>
+  </div>
+
+</div>
+
+    <div class="wrapper">
+  <div class="row row--full">
+
+    <div class="column column--center medium-12 large-12">
+      <div class="grey-bg CoverImage FlexEmbed FlexEmbed--2by1" style="background-image: url(/images/your_virtual_rails_client.jpeg)"></div>
+    </div>
+
+    <div class="column column--center medium-12 large-10">
+      <article class="post">
+        <header class="post__header">
+          <h2 class="post__title">Start Here. Go Anywhere.</h2>
+        </header>
+
+        <div class="post-content">
+          <p>You’ve taught yourself Ruby and Rails using books and online courses, but every time you figure something out, there’s a new issue. You get stuck, confused, and overwhelmed after learning for a while because there’s too much Ruby and Rails tutorials and courses.</p>
+
+<p>You don’t know how to go from tutorials and guides to actually build a useful app.
+And you’ve managed to combine different tutorials and adjust them to fit the projects you’re working on, but you still don’t know how to build practical Ruby and Rails apps from scratch.</p>
+
+<p>You don’t know which path to take because every video and tutorial uses different tools and gems. And you don’t know which ones will prepare you for a career in software development and which ones will limit your career opportunities.</p>
+
+<p>You’re a self-taught Ruby and Rails developer, but you can’t think of an idea for a project, or can’t find an existing project that you can use to gain practical experience that’ll make you move up from your current stage.</p>
+
+<p>You got stuck after learning Ruby and Rails for a while and also got confused as to which skills to build upon because you don’t know which ones are dead-ends, and which ones will always make you marketable.</p>
+
+<p>And you’re looking for one single source of Ruby and Rails resources from start to end, with easy to follow examples without all the extra text explaining how X language is different from Y language.</p>
+
+<h2 id="centeri-stylecolor-526acc-font-weight-boldhow-can-i-keep-up-with-new-updates-to-railsicenter"><center><i style="color: #526acc; font-weight: bold;">“How can I keep up with new updates to Rails?”</i></center></h2>
+
+<p>How can you jump ahead from your current position WITHOUT being “language agnostic” and knowing half-dozen languages. And without practicing for 1,350 hours when there’re always new inventions in software development?</p>
+
+<p>How can you advance from beginner to intermediate to senior status when majority of books, tutorials and courses assume you’re a complete non-technical beginner, and you can’t find good resources with sufficient depth that fits your unique learning profile?</p>
+
+<p>How can you convey that you don’t just know your way around Ruby and Rails projects, but you can also be of value when it comes to solving expensive, business problems with software?</p>
+
+<h2 id="centeri-stylecolor-526acc-font-weight-boldwhat-if-you-could-model-ruby-and-rails-prosicenter"><center><i style="color: #526acc; font-weight: bold;">What if you could “model” Ruby and Rails pros?</i></center></h2>
+
+<p>You know there’s no better way to master Ruby and Rails 5 than to apply what you’ve learned and do the thinking yourself to build an app that’s interesting.</p>
+
+<p>You know you must work on applications that are challenging so that you can grow. And you should build useful things, otherwise you can’t get users and invaluable feedback that let’s you know you’re doing things right.</p>
+
+<p>As you know, DHH learned Ruby when he was hired to build Basecamp for real users, and he created Rails framework in the process.</p>
+
+<p>Josh Kaufman, bestselling author of <em>PersonalMBA</em>, learned Ruby and Sinatra as he built systems and tools to help him run his publishing business more efficiently.</p>
+
+<p>I became a confident Ruby and Rails developer when I started building Ruby and Rails apps that were useful to me and my clients, including HubStaff, ProfitWell, ConvertKit, and Enza Academy.</p>
+
+<p>You can also boost your software development career so that you can deserve that big promotion, land your next full-time position, or even attract high-paying freelance-consulting clients.</p>
+
+<p>Yes, you can finally stop getting underpaid…even if you learned to code at a much older age than most of us and learning a new language is difficult for you.</p>
+
+<h2 id="centeri-stylecolor-526acc-font-weight-boldintroducing-your-virtual-rails-client-v002icenter"><center><i style="color: #526acc; font-weight: bold;">Introducing Your Virtual Rails Client v0.0.2</i></center></h2>
+
+<p>Picture this, ambitious Ruby and Rails developer!</p>
+
+<p>You’ve been hired by the CEO of an early-stage startup, Your Virtual Rails Client, as full-stack Ruby and Rails developer. You work remotely on a 3-month contract and you’re responsible for making technology recommendations, and building web apps.</p>
+
+<p>You must build Ruby and Rails applications the startup can sell to customers and also build internal tools that’ll make the business run smoothly. Your Virtual Rails Client wants you to build four applications before the end of your 3-month contract, otherwise, your contract will not be extended.</p>
+
+<h2 id="centeri-stylecolor-526acc-font-weight-boldbuild-four-practical-ruby-and-rails-5-applications-from-scratch-without-being-overwhelmed-or-boredicenter"><center><i style="color: #526acc; font-weight: bold;">Build FOUR Practical Ruby and Rails 5 Applications From Scratch, Without Being Overwhelmed or Bored</i></center></h2>
+
+<h5 id="practical-ruby-app-1-build-a-ruby-cli-app"><strong><em>Practical Ruby App #1: Build A Ruby CLI App</em></strong></h5>
+
+<p>The first Ruby app you’ve been tasked to build is a Ruby command line app that automates the process of extracting SEO data from the web and saves the data into a CSV or TXT file that’s available to everyone that works with you.</p>
+
+<h5 id="practical-ruby-app-2-build-a-ruby-api-client"><strong><em>Practical Ruby App #2: Build A Ruby API Client</em></strong></h5>
+
+<p>The second Ruby app you’ve been tasked to build is an API Client that consumes private data you want to integrate into one of your software products. The API client authenticates with the private server and returns a JSON resource.</p>
+
+<h5 id="practical-rails-5-app-3-build-a-jobs-board-that-processes-payments-with-stripe"><strong><em>Practical Rails 5 App #3: Build A Jobs Board That Processes Payments With Stripe</em></strong></h5>
+
+<p>The third Rails app you’ve been tasked to build is a Jobs Board. The app must process payments with Stripe, display the listings for 60 days and send weekly, bi-weekly or monthly email updates about new postings to registered users.</p>
+
+<h5 id="practical-rails-5-app--4-build-a-multi-tenant-multi-tiered-file-storage-service"><strong><em>Practical Rails 5 App  #4: Build A Multi-Tenant, Multi-Tiered File Storage Service</em></strong></h5>
+
+<p>The fourth Rails app you’ve been tasked to build is a multi-tenant file storage service for small businesses looking for a Dropbox alternative. That means each customer must have a separate area within your app, and pay based on usage.</p>
+
+<div style="min-width:250px; margin:auto; width: 45%; height: 100%; float: left; margin-right: 5%">
+<center style="font-style: italic; color: #ff753b">Ruby CLI App Demo</center>
+<iframe src="https://player.vimeo.com/video/205053639" width="320" height="200" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+</div>
+<div style="min-width: 250px; margin:auto;  width: 45%; height: 100%; float: left;">
+<center style="font-style: italic; color: #ff753b">Rails 5 + Stripe Demo</center>
+<iframe src="https://player.vimeo.com/video/205065642" width="320" height="200" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="centeri-stylecolor-526acc-font-weight-bold-margin-top-200pxgetting-started-with-your-virtual-rails-clienticenter"><center><i style="color: #526acc; font-weight: bold; margin-top: 200px;">Getting Started With Your Virtual Rails Client</i></center></h2>
+
+<h6 id="heres-what-you-dont-get-when-you-join-other-product-focused-ruby-and-rails-developers-whore-determined-to-stand-out-and-work-with-your-virtual-rails-client"><strong><em>Here’s what YOU DON’T GET when you join other product-focused Ruby and Rails developers who’re determined to STAND OUT and “work” with Your Virtual Rails Client…</em></strong></h6>
+
+<p>You don’t get a step-by-step tutorial that tells you what classes and methods you should write next because your clients or full-time employer will never do that.</p>
+
+<p>You don’t get a downloadable PDF or video that’ll collect “digital dust” on your hard-drive because you can’t achieve results without writing code and implementing.</p>
+
+<p>You don’t get the source code for another simple CRUD app, or social-networking clone built with Rails 5 because those don’t make you stand out from your peers.</p>
+
+<p>Instead, I’ll show you how to ship useful software from scratch using your chosen Ruby and Rails stack, user stories and test cases written in RSPEC.</p>
+
+<h5 id="heres-just-a-sample-of-the-ruby-and-rails-topics-concepts-and-techniques-thatll-be-printed-into-your-minds-eye-and-become-natural-habits-for-you-after-you-complete-this-first-of-its-kind-training"><strong><em>Here’s just a sample of the Ruby and Rails topics, concepts and techniques that’ll be printed into your mind’s eye and become natural-habits for you after you complete this first-of-its-kind training…</em></strong></h5>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Follow the “Ruby Style” &amp; Rails conventions to write better code</td>
+      <td>Use best practices and write code that looks professional, and is easily maintainable</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Know the relationship between MVC components and how they work</strong></td>
+      <td><strong>Easily create queries involving multiple models and third-party libraries</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Quickly debug errors, messages and then easily fix your own Ruby and Rails code</td>
+      <td>Choose the right Ruby gems and tools for your Ruby and Rails apps, in every situation</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><strong>Create a routine that’ll help you keep up with all the new updates to Ruby and Rails</strong></td>
+      <td><strong>Setup and write automated tests with RSPEC, and prioritize features to develop</strong></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Setup your production servers and deploy to Heroku, Digital Ocean or AWS</td>
+      <td><em>And many more just-in-time Ruby and Rails topics, concepts and techniques…</em></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>If you give me 1 hour per day for 90 days inside Your Virtual Rails Client, I’ll give you the unfair advantage and confidence you also need to create a remarkable career in software development with Ruby and Rails.</p>
+
+<h5 id="heres-everything-youll-get-when-you-pay-your-tuition-and-enroll-today"><strong><em>Here’s EVERYTHING YOU’LL GET when you pay your tuition and enroll today…</em></strong></h5>
+
+<p><strong>Bonus #1: Your First $100K From Open Source Software Training</strong></p>
+
+<p>In this training, I’ll show you the three-legged, developer-friendly approach to turning your open source contributions into income / revenue without asking for $1 tips from your core users…even if you don’t have a computer science degree, you don’t consider yourself an “ideas” person, or you don’t release a smash-hit, community-based software.</p>
+
+<p><strong>Bonus #2: The SaaS Developers’ Library of 30+ Ruby and Rails Gems</strong></p>
+
+<p>You’ll have full access to the ultimate list of Ruby and Rails libraries that’ll turn your SaaS apps into a scalable, easily maintainable, and uber-profitable products. These include Ruby and Rails gems for payment processing, NPS analytics, A/B testing, transactional and automated emails, dark launches, and continuous integrations.</p>
+
+<p><strong>Bonus #3: The “Trust-Velocity” Vault Of 20 Ways To Grow Any Web App</strong></p>
+
+<p>You’ll have complete, unrestricted access to <em>20 Predictable Hook Triggers</em> you can implement in every Web product you build. Use these to bring more cash-in-fists customers to your SaaS app and get invaluable feedback. These are the same old-school traffic and conversion strategies I implement for my $5K consulting clients.</p>
+
+<p><strong>FOUR Sets Of User Stories and RSpec Test Cases For Ruby and Rails 5 Apps</strong></p>
+
+<p>You’ll get the user stories, test cases and high-fidelity mockups for shipping FOUR Ruby and Rails apps from scratch, all by yourself. You’ll finally know exactly what you must learn to move to the next stage of your software development career (and what to ignore).</p>
+
+<p><strong>Add-On #1: Your Own Portfolio Of Ruby and Rails 5 Source Code + Live Demos</strong></p>
+
+<p>You can finally have a portfolio of Ruby and Rails source code + live demos you can be proud to showcase on your GitHub profile. And you’ll also use these as “starter apps” when learning or practicing new Ruby and Rails topics, concepts and techniques.</p>
+
+<p><strong>Add-On #2: Reference Implementation For All 4 Ruby and Rails Applications</strong></p>
+
+<p>You’ll have the complete source code + live demos for all the applications written by another experienced Ruby and Rails developer, so that you can see different approaches to implementing the same features in Ruby and Rails.</p>
+
+<p><strong>Add-On #3: Lifetime Membership To Our Private Alumni-Only Community</strong></p>
+
+<p>Inside this alumni-only community, you get the one-on-one support, motivation and pressure you need from fellow students and Your Virtual Rails Client, so that you never, ever get stuck learning alone again.</p>
+
+<p><strong>Add-On #4: 90 Days Of Just-In-Time Private Email Coaching</strong></p>
+
+<p>Got specific questions for your own unique Ruby and Rails app? Not sure how to  deal with a tricky situation in Rails? Just shoot Your Virtual Rails Client an email and get your question answered – in 30 minutes or less.</p>
+
+<h4 id="centeri-stylecolor-526acc-font-weight-bolda-quick-peek-inside-your-virtual-rails-clienticenter"><center><i style="color: #526acc; font-weight: bold;">A Quick Peek Inside Your Virtual Rails Client</i></center></h4>
+
+<iframe src="https://player.vimeo.com/video/204982293" width="640" height="400" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+
+<h3 id="centeri-stylecolor-526acc-font-weight-boldwhats-your-investment-in-your-virtual-rails-clienticenter"><center><i style="color: #526acc; font-weight: bold;">What’s your investment in Your Virtual Rails Client?</i></center></h3>
+
+<p>A question you need to answer right now…</p>
+
+<p>How much would you pay to finally know exactly what skills you must build upon to get the confidence you desperately need to ask for a promotion or demand high-rates from your freelance-consulting clients?</p>
+
+<p>$2500, $5000 or even $15,000?</p>
+
+<p>Because I don’t want tuition to be an obstacle for anyone who’s very eager to learn and create a remarkable career in software development for themselves, I’m not going to ask you to break the bank.</p>
+
+<h3 id="center-stylemargin-bottom-40pxright-now-you-get-unlimited-access-and-lifetime-updates-to-your-virtual-rails-client-for-a-usmall-one-time-payment-of-only-299ucenter"><center style="margin-bottom: 40px;">Right now, you get unlimited access and lifetime updates to Your Virtual Rails Client for a <u>small one-time payment of only $299.</u></center></h3>
+
+<center style="margin-bottom: -40px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 60px;">YES Raymond, I want this for only $299</button></a><br /><i style="font-size: 16px; font-weight: bold; line-height: 16px; margin-top: 10px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />No Subscription...No Shenanigans...No Sweat</i></center>
+<p><br /></p>
+
+<h4 id="centeribplease-dont-work-with-your-virtual-rails-client-brunless-youll-take-action-and-achieve-this-unbeatable-promisebicenter"><center><i><b>Please DON’T work with Your Virtual Rails Client <br />unless you’ll take action and achieve this UNBEATABLE PROMISE</b></i></center></h4>
+
+<p><u>You’ll master the exact “impact mapping” process</u> professional Ruby and Rails developers like Ryan Bigg, Fabio Akita and Peter Cooper use to ship software products that are used by thousands, sometimes millions, of people every day.</p>
+
+<p><u>You’ll model how Ruby and Rails professionals deliver products</u> instead of reading another Ruby and Rails book from cover to cover. Or watching another outdated video tutorial that doesn’t work as soon it’s published and makes you even more confused.</p>
+
+<p><u>You’ll focus on the only 2 product simplifiers that matter</u> when building valuable software with Ruby and Rails, so that you can help your clients (or full-time employer) achieve their business objectives, thus creating a remarkable career in software development for yourself…even if you’re older than a precious stone.</p>
+
+<h3 id="centeri-stylecolor-526acc-font-weight-boldhookops-standard-60-day-success-guaranteeicenter"><center><i style="color: #526acc; font-weight: bold;">HookOps' Standard 60-Day Success Guarantee</i></center></h3>
+
+<p><img src="/images/60-day-seal-2.png" style="max-height: 160px; float: right; margin-left: -90px; margin-top: 40px;" /></p>
+
+<p>Yes, because you also deserve a remarkable career in software development, go ahead and take Your Virtual Rails Client for a <strong><em>60-Day 100% Risk-Free Trial.</em></strong> After that, if you can’t achieve what you want to accomplish or you’re not thrilled with your results, request a full and prompt refund. But you’ll keep and use all the training material plus bonuses – _including <strong>The $100K From OSS Training</strong>, The SaaS Developer’s Library, <strong>The “Trust-Velocity” Vault</strong>, 4 Sets of User Stories and RSpec Test Cases, <strong>The Source Code + Live Demos For 4 Ruby and Rails Apps.</strong> – on the house.</p>
+
+<center style="margin-bottom: -250px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 80px;">YES Raymond, I want this for one payment of $299 today</button></a><br /><i style="font-size: 16px; font-weight: bold;line-height: 18px; margin-top: 15px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />* Remember, you'll not find this kind of all-in-one, SaaS developer training anywhere else, at any price. I've searched earth and space for 3 solid years, but it doesn't exist. That's why I opened a private lab, invested thousands of dollars attending workshops, and tested every material on strangers. You can have only what's working right now, skip the trial-and-error, and cut your learning plus execution time in half.</i></center>
+<p><br /></p>
+
+        </div>
+      </article>
+    </div>
+
+  </div> <!-- row-->
+</div> <!-- wrapper -->
+  </div>
+
+  <script src="/js/jquery-2.1.4.min.js"></script>
+  <script src="/js/evil-icons.min.js"></script>
+  <script src="/js/jquery.fitvids.js"></script>
+  <script src="/js/jquery.ghostHunter.min.js"></script>
+  <script src="/js/script.js"></script>
+</body>
+
+</html>
