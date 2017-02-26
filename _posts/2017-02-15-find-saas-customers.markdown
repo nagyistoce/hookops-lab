@@ -56,9 +56,7 @@ Redirecting exiting traffic to a special offer sounds a bit technical, right? We
 
 For this step you need an autoresponder (such as Drip, GetResponse, MailChimp or any other reputable email service provider), and a web page to showcase your offer and opt-in form.
 
-If you’re not exactly a word class web designer, no worries – you can still set up a great-looking lead page with just a couple clicks of your mouse.
-
-> [**Checkout Drip for more details.**]()
+If you’re not exactly a word class web designer, no worries – you can still set up a great-looking lead page with just a couple clicks of your mouse. Checkout Leadpages for more details.
 
 **Step 2 – Choose a targeted offer.**
 
@@ -70,7 +68,7 @@ Just be sure your lead magnet product is valuable, it’s something your visitor
 
 Now here’s what most people think is the tricky part – how do you redirect exiting visitors to your lead page? The good news is you don’t need to create any code or have any technical experience.
 
-**Just use CatchaMonkey, which will handle all the redirects for you.**
+Just use CatchaMonkey, which will handle all the redirects for you.
 
 It’s pretty darn easy.
 
@@ -166,15 +164,10 @@ Once you decide what you’re going to test, then be sure to test just one eleme
 
 For example, if you’re testing the best time of the day to send emails – 9:00am or 9:00pm -- then you need to randomly split your list into two groups and send out the exact same email to both groups. If everything else about the emails is exactly the same, then you’ll know that any difference in conversion rate is due to the time it was sent out.
 
-
-Conclusion
-
 These three mistakes seem pretty simple, and yet you’ll face dismal amounts of traffic if you make these mistakes too. So be sure to test everything, diversify your traffic methods, and take consistent steps every day to build your traffic.
 
 Of course the question is, what else should you be doing to build traffic? And another one: what is the best way to bring in targeted traffic?
 
-The answers to these questions can make or break your business, which is why you’ll want to get your answers from the best source around: [20 Predictable Hook Triggers](https://rkcudjoe.withcoach.com/predictable-hook-triggers.html)
+The answers to these questions can make or break your SaaS business, which is why you should get your answers from old-school SaaS marketers: [**20 Predictable Hook Triggers**](https://rkcudjoe.withcoach.com/predictable-hook-triggers.html)
 
 But don’t take my word for it – check it out for yourself by clicking the link above to find out what you’ve been missing. And do it now, before this very special offer disappears.
-
-

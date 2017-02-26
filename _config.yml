@@ -8,7 +8,7 @@
 # Site settings
 
 title:            re:Profit Lab
-email:            rkcudjoe@hookops.com
+email:            rkcudjoe+consulting@hookops.com
 description:      Let's make your small SaaS app eat competitors' lunch.
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              "http://blog.excelwithcode.com" # The base hostname & protocol for your site

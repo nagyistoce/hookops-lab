@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You're NOT Good Enough To Build Practical Rails and Ruby Apps?
+title: You're Good Enough To Build Practical Rails 5 and Ruby Apps
 sub_title: Start Here. Go Anywhere.
 image: '/images/your_virtual_rails_client.jpeg'
 ---
