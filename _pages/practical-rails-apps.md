@@ -139,6 +139,10 @@ Inside this alumni-only community, you get the one-on-one support, motivation an
 
 Got specific questions for your own unique Ruby and Rails app? Not sure how to  deal with a tricky situation in Ruby or Rails? Just shoot Your Virtual Rails Client an email and get your question answered – in 60 minutes or less.
 
+#### <center><i style="color: #526acc; font-weight: bold;">A Quick Peek Inside Your Virtual Rails Client</i></center>
+
+<iframe src="https://player.vimeo.com/video/204982293" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ### <center><i style="color: #526acc; font-weight: bold;">What’s your investment in Your Virtual Rails Client?</i></center>
 
 A question you need to answer right now…
