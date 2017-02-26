@@ -139,10 +139,6 @@ Inside this alumni-only community, you get the one-on-one support, motivation an
 
 Got specific questions for your own unique Ruby and Rails app? Not sure how to  deal with a tricky situation in Ruby or Rails? Just shoot Your Virtual Rails Client an email and get your question answered – in 60 minutes or less.
 
-#### <center><i style="color: #526acc; font-weight: bold;">A Quick Peek Inside Your Virtual Rails Client</i></center>
-
-<iframe src="https://player.vimeo.com/video/204982293" width="640" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 ### <center><i style="color: #526acc; font-weight: bold;">What’s your investment in Your Virtual Rails Client?</i></center>
 
 A question you need to answer right now…
@@ -153,9 +149,9 @@ $2500, $5000 or even $15,000?
 
 Because I don’t want tuition to be an obstacle for anyone who’s very eager to learn and create a remarkable career in software development for themselves, I’m not going to ask you to break the bank.
 
-### <center style="margin-bottom: 40px;">Right now, you get unlimited access and lifetime updates to Your Virtual Rails Client for a <u>small one-time payment of only $299.</u></center>
+### <center style="margin-bottom: 40px;">Right now, you get unlimited access and lifetime updates to Your Virtual Rails Client for a <u>small one-time payment of only $29.</u></center>
 
-<center style="margin-bottom: -40px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 60px;">YES Raymond, I want this for only $299</button></a><br><i style="font-size: 16px; font-weight: bold; line-height: 16px; margin-top: 10px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />No Subscription...No Shenanigans...No Sweat</i></center>
+<center style="margin-bottom: -40px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 60px;">YES Raymond, I want this for only $29</button></a><br><i style="font-size: 16px; font-weight: bold; line-height: 16px; margin-top: 10px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />No Subscription...No Shenanigans...No Sweat</i></center>
 <br>
 
 #### <center><i><b>Please DON’T work with Your Virtual Rails Client <br>unless you’ll take action and achieve this UNBEATABLE PROMISE</b></i></center>
@@ -173,5 +169,5 @@ Because I don’t want tuition to be an obstacle for anyone who’s very eager t
 
 Yes, because you also deserve a remarkable career in software development, go ahead and take Your Virtual Rails Client for a **_60-Day 100% Risk-Free Trial._** After that, if you can't achieve what you want to accomplish or you're not thrilled with your results, request a full and prompt refund. And you can still keep and use all the training material plus bonuses – _including **The $100K From OSS Training**, The SaaS Developer's Library, **The "Trust-Velocity" Vault**, 4 Sets of User Stories and RSpec Test Cases, **The Source Code + Live Demos For 4 Ruby and Rails Apps.**_ – on the house.
 
-<center style="margin-bottom: -250px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 80px;">YES Raymond, I want this for one payment of $299 today</button></a><br><i style="font-size: 16px; font-weight: bold;line-height: 18px; margin-top: 15px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />* Remember, you'll not find this kind of all-in-one, SaaS developer training anywhere else, at any price. I've searched earth and space for 3 solid years, but it doesn't exist. That's why I opened a private lab, invested thousands of dollars attending workshops, and tested every material on strangers. You can have only what's working right now, skip the trial-and-error, and cut your learning plus execution time in half.</i></center>
+<center style="margin-bottom: -250px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 80px;">YES Raymond, I want this for one payment of $29 today</button></a><br><i style="font-size: 16px; font-weight: bold;line-height: 18px; margin-top: 15px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />* Remember, you'll not find this kind of all-in-one, SaaS developer training anywhere else, at any price. I've searched earth and space for 3 solid years, but it doesn't exist. That's why I opened a private lab, invested thousands of dollars attending workshops, and tested every material on strangers. You can have only what's working right now, skip the trial-and-error, and cut your learning plus execution time in half.</i></center>
 <br>
