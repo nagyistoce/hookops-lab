@@ -135,9 +135,9 @@ You’ll have the complete source code + live demos for all the applications wri
 
 Inside this alumni-only community, you get the one-on-one support, motivation and pressure you need from fellow students and Your Virtual Rails Client, so that you never, ever get stuck learning alone again.
 
-**Add-On #4: 90 Days Of Just-In-Time Private Email Coaching**
+**Add-On #4: 60 Days Of Just-In-Time Private Email Coaching**
 
-Got specific questions for your own unique Ruby and Rails app? Not sure how to  deal with a tricky situation in Rails? Just shoot Your Virtual Rails Client an email and get your question answered – in 30 minutes or less.
+Got specific questions for your own unique Ruby and Rails app? Not sure how to  deal with a tricky situation in Ruby or Rails? Just shoot Your Virtual Rails Client an email and get your question answered – in 60 minutes or less.
 
 #### <center><i style="color: #526acc; font-weight: bold;">A Quick Peek Inside Your Virtual Rails Client</i></center>
 
@@ -164,14 +164,14 @@ Because I don’t want tuition to be an obstacle for anyone who’s very eager t
 
 <u>You’ll model how Ruby and Rails professionals deliver products</u> instead of reading another Ruby and Rails book from cover to cover. Or watching another outdated video tutorial that doesn’t work as soon it’s published and makes you even more confused.
 
-<u>You’ll focus on the only 2 product simplifiers that matter</u> when building valuable software with Ruby and Rails, so that you can help your clients (or full-time employer) achieve their business objectives, thus creating a remarkable career in software development for yourself...even if you’re older than a precious stone.
+<u>You’ll focus on the only 2 product simplifiers that matter</u> when building valuable software with Ruby and Rails, so that you can help your clients achieve their business goals and create a remarkable career in software development for yourself in the process.
 
 
 ### <center><i style="color: #526acc; font-weight: bold;">HookOps' Standard 60-Day Success Guarantee</i></center>
 
-<img src="/images/60-day-seal-2.png" style="max-height: 160px; float: right; margin-left: -90px; margin-top: 40px;"/>
+<img src="/images/60-day-seal-2.png" style="max-height: 160px; float: right; margin-left: -50px; margin-top: 40px;"/>
 
-Yes, because you also deserve a remarkable career in software development, go ahead and take Your Virtual Rails Client for a **_60-Day 100% Risk-Free Trial._** After that, if you can't achieve what you want to accomplish or you're not thrilled with your results, request a full and prompt refund. But you'll keep and use all the training material plus bonuses – _including **The $100K From OSS Training**, The SaaS Developer's Library, **The "Trust-Velocity" Vault**, 4 Sets of User Stories and RSpec Test Cases, **The Source Code + Live Demos For 4 Ruby and Rails Apps.** – on the house.
+Yes, because you also deserve a remarkable career in software development, go ahead and take Your Virtual Rails Client for a **_60-Day 100% Risk-Free Trial._** After that, if you can't achieve what you want to accomplish or you're not thrilled with your results, request a full and prompt refund. And you can still keep and use all the training material plus bonuses – _including **The $100K From OSS Training**, The SaaS Developer's Library, **The "Trust-Velocity" Vault**, 4 Sets of User Stories and RSpec Test Cases, **The Source Code + Live Demos For 4 Ruby and Rails Apps.**_ – on the house.
 
 <center style="margin-bottom: -250px;"><a href="https://rkcudjoe.withcoach.com/your-virtual-rails-client/buy"><button style="background-color: #526acc; color: white; font-weight: bold; font-size: 28px; border-radius: 10px; min-height: 80px;">YES Raymond, I want this for one payment of $299 today</button></a><br><i style="font-size: 16px; font-weight: bold;line-height: 18px; margin-top: 15px; margin-bottom: 15px; display: block; color:#ff753b;"><img src="/images/credit-cards-logos.png" style="max-height: 45px;" />* Remember, you'll not find this kind of all-in-one, SaaS developer training anywhere else, at any price. I've searched earth and space for 3 solid years, but it doesn't exist. That's why I opened a private lab, invested thousands of dollars attending workshops, and tested every material on strangers. You can have only what's working right now, skip the trial-and-error, and cut your learning plus execution time in half.</i></center>
 <br>
