@@ -54,10 +54,12 @@
 		font-size: 32px;
 		font-weight: bold;
 
+
 		a {
 			transition: $base-transition-speed;
 			text-decoration: none;
 			letter-spacing: 1px;
+			color: #a60505;
 
 			&:hover {
 				color: $color__base--hover;
