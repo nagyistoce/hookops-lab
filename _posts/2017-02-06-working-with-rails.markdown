@@ -31,7 +31,7 @@ Ruby / Rails developer who’re able to stand out from their peers focus on…
 Let’s look at three examples of how this plays out in the real-world.
 
 
-1 – Satisfying a need for their customer / marketplace
+#### **1 – Satisfying a need for their customer / marketplace**
 
 
 Did you know that the average Staff Software Engineer at Walmart, the lowest ranked developers, earns $151, 283 per year? Walmart spends a fortune on these developers NOT because they’re better than other developers out there.
@@ -50,7 +50,7 @@ Regardless of what product or service a business sells, they’d hire a develope
 An expert Rails developer understands this and makes that crystal clear to their potential client (or full-time employer), instead of selling themselves based on only the tech stack they’re familiar with.
 
 
-2 – Solve expensive, internal business problems
+#### **2 – Solve expensive, internal business problems**
 
 
 Fortune 500 companies subscribe to Salesforce and spend, on average, $114,000 per year on Salesforce Consultants to customize the software because they want to find more customers, close more deals faster and keep customers happy.
@@ -65,7 +65,7 @@ That’s why Salesforce exits. And thousands of Salesforce Consultants focus exc
 
 You can also build a remarkable career as Ruby / Rails developer, if you focus on building software that helps businesses solve problems like keeping customers happy, consistently meeting sales quotas, and improving the overall bottom line.
  
-3 – Capitalize on an emerging, profitable business opportunity
+#### **3 – Capitalize on an emerging, profitable business opportunity**
 
 
 Basecamp, Shopify and GitHub created software to capitalize on business opportunities. Entrepreneurs and startups build software products because they want to capitalize on an opportunity before another person does.
@@ -199,6 +199,6 @@ Now that you know professional Rails developers use stories to ship secure and r
 If you’re drawing blanks right now, don’t fret because I’ve got your back. Just use the user stories and test cases written in RSPEC below…
 
 
-And ship TWO Ruby apps tonight:
+And ship TWO Ruby apps tonight: <a href="https://www.getdrip.com/forms/51176020/submissions/new" data-drip-show-form="51176020">**Download my RSpec test cases**</a>.
 
-There’s nothing more to read here. Download the test cases above and start modeling the pros tonight.
+There’s nothing more to read here. Download the test cases above and start modeling the pros tonight. You'll be glad you did.
