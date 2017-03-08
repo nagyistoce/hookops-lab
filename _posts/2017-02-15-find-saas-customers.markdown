@@ -6,6 +6,7 @@ permalink: find-saas-customers.html
 keywords: "profitable SaaS customers, capture exit traffic, install exit form"
 excerpt: "You’ve heard about their huge mailing lists. You’ve seen their busy blogs and overloaded Stripe dashboards. If you want more subscribers and more customers, capture exit traffic."
 author: rkcudjoe
+image: '/images/saas_customers.png'
 ---
 
 Right at this very moment, there is someone visiting your website. But they’re not just any visitor. This is a targeted visitor, someone who's very interested in what you’re selling. They’re looking over your offers. They’re reading your blog. They’re clicking on your links.

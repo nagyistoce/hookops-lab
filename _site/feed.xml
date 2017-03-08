@@ -1,13 +1,446 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>re:Profit Lab</title>
+    <title>ReProfit Lab</title>
     <description>Let&#39;s make your small SaaS app eat competitors&#39; lunch.</description>
     <link>http://blog.excelwithcode.com/</link>
     <atom:link href="http://blog.excelwithcode.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Mar 2017 12:24:52 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Mar 2017 12:24:52 -0500</lastBuildDate>
+    <pubDate>Wed, 08 Mar 2017 16:07:18 -0500</pubDate>
+    <lastBuildDate>Wed, 08 Mar 2017 16:07:18 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Jumpstart Your Web Development Career</title>
+        <description>&lt;p&gt;If you’re struggling to market yourself as a qualified candidate seeking a full-time Rails developer position, you’re about to uncover one of most effective strategies for breaking into the software development industry.&lt;/p&gt;
+
+&lt;p&gt;Because you’re reading this, there’s good chance you’re currently in one of these situations…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;You just started learning Rails and aim to become a professional developer within a years time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve been searching and a lot of the junior developer jobs require 2-3 of years of professional experience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve been applying to various Rails job adverts for the last couple of months and you haven’t had much luck getting responses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sometimes you ask yourself: Is Ruby &amp;amp; Rails worth learning today, in terms of making money in the future?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Because you’ve done everything you’ve been told…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve contributed to existing open source projects or uploaded all your projects to GitHub, but clients and employers aren’t fighting each other to work with you.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve attended meetups (i.e networking events) and all you’ve got to show for it is a pile of business cards and unreturned emails.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You’ve started a technical blog, but the comments section is full of thank-yous, but no offers because busy business people who could hire you don’t read your blog yet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You have a mentor, for pair-programming, code review and coaching…&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And still, every time you apply for a Rails developer position, you get the silent treatment. Or the &lt;a href=&quot;http://blog.openviewpartners.com/candidate-rejections-process/&quot;&gt;standardized email for rejected candidates&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Thank you for taking the time to speak with me today about the Rails developer opening at Company X. Unfortunately, we have decided to move forward with another candidate who had more experience.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s about time you kick “lack of experience” where it hurts and get paid to use Ruby &amp;amp; Rails…even if you don’t have a college education. You’ll get hired and paid to use Ruby &amp;amp; Rails without hustling (too much).&lt;/p&gt;
+
+&lt;p&gt;You don’t have to add React, EmberJS and AngularJS to your skillsets because you’ll get hired using ONLY your current Ruby &amp;amp; Rails skills.&lt;/p&gt;
+
+&lt;p&gt;If you’ve taught yourself Ruby and Rails the hard way and you’ve read any these books (including other resources)…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rails Tutorial by Michael Hartl&lt;/li&gt;
+  &lt;li&gt;Agile Web Development With Rails 5 by Sam Ruby&lt;/li&gt;
+  &lt;li&gt;Beginning Ruby by Peter Cooper&lt;/li&gt;
+  &lt;li&gt;Ruby on Rails 4.0 Guide by Stephan Wintermeyer&lt;/li&gt;
+  &lt;li&gt;Learn Ruby on Rails by Daniel Kehoe&lt;/li&gt;
+  &lt;li&gt;Programming Ruby 1.9 &amp;amp; 2.0 by The Pragmatic Programmers&lt;/li&gt;
+  &lt;li&gt;many parts of the official Rails Guide&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then the next thing you need is a way to feed your dream client or employer so that you can also break into the software development industry.&lt;/p&gt;
+
+&lt;p&gt;You need a service you can sell to your first or next client…and then leverage that into more opportunities, whether that’s a full-time position at one company or multiple freelance clients.&lt;/p&gt;
+
+&lt;p&gt;You need a service clients will happily purchase from you to achieve their desired business goals sooner.&lt;/p&gt;
+
+&lt;p&gt;The biggest obstacle I faced after learning Ruby and Rails was knowing exactly how to stand out from the horde of Ruby and Rails developers out there.&lt;/p&gt;
+
+&lt;p&gt;I needed to give potential clients a reason to hire me instead of the next developer, who has more experience and a killer client roster.&lt;/p&gt;
+
+&lt;p&gt;So, I spent a better part of a year (and mucho dinero) attending workshops to learn how to design and sell productized consulting services, consistently and predictably.&lt;/p&gt;
+
+&lt;p&gt;What I’ve learned has given me the opportunity serve clients like Hubstaff, Wootric, ConvertKit and HeyUpdate…in the last 6 months alone.&lt;/p&gt;
+
+&lt;p&gt;And that’s exactly what I’m going condense and show in the next 7 days. You’ll know how you can also use the briefcase technique plus the “stairstep” approach to land your first freelance-consulting client, then leverage that into bigger or better opportunities.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-briefcase-technique-in-7-minutes&quot;&gt;&lt;strong&gt;The Briefcase Technique In 7 Minutes&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;script src=&quot;http://monkeyplayr.com/playr.php?u=865&amp;amp;p=6825&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You’re now prepared to use the “stairstep” approach to land your first freelance-consulting client or full-time web development position. Go ahead and enroll in this 7 day email course, and I’ll show you the exact steps you need to follow in order to research and create a killer proposal: &lt;a href=&quot;https://www.getdrip.com/forms/39681746/submissions/new&quot; data-drip-show-form=&quot;39681746&quot;&gt;&lt;strong&gt;The “Startup Of You” On Ruby and Rails.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Mar 2017 06:25:00 -0500</pubDate>
+        <link>http://blog.excelwithcode.com/jumpstart-dev-career.html</link>
+        <guid isPermaLink="true">http://blog.excelwithcode.com/jumpstart-dev-career.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Practical Rails 5 App In One Hour – Part 2</title>
+        <description>&lt;p&gt;I’ve already shown you the only five types of applications you’ll ever be tasked to build when you’re hired to create value as Ruby and Rails developer. You’ll choose a combination of these &lt;strong&gt;customer creation formulas&lt;/strong&gt; to build an application that meets your business goals…&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can use Rails to build brochure sites&lt;/li&gt;
+  &lt;li&gt;You can use Rails to build publication sites&lt;/li&gt;
+  &lt;li&gt;You can use Rails to build online stores (ecommerce)&lt;/li&gt;
+  &lt;li&gt;You can use Rails to build consultative sites&lt;/li&gt;
+  &lt;li&gt;You can use Rails to build online services (SaaS apps)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;/build-rails-app.html&quot;&gt;In part one of Practical Rails 5 App In One Hour&lt;/a&gt;, you setup a default Rails 5 application so let’s go ahead and add a unique feature.&lt;/p&gt;
+
+&lt;h4 id=&quot;getting-started-with-rails-5&quot;&gt;&lt;strong&gt;Getting Started With Rails 5&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;After you have cloned this repo, run this setup script to set up your machine
+with the necessary dependencies to run and test this app:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;% git clone git@github.com:HookOps/hubstaff-rails.git
+% ./bin/setup
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It assumes you have a machine equipped with Ruby, Postgres, etc. If not, set up
+your machine with &lt;a href=&quot;https://github.com/thoughtbot/laptop&quot;&gt;this script&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After setting up, you can run the application using &lt;a href=&quot;https://devcenter.heroku.com/articles/heroku-local&quot;&gt;Heroku Local&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;% heroku local
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;script src=&quot;http://monkeyplayr.com/playr.php?u=865&amp;amp;p=8589&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;using-a-ruby-api-client&quot;&gt;&lt;strong&gt;Using a Ruby API client&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 1:&lt;/strong&gt; Add &lt;code class=&quot;highlighter-rouge&quot;&gt;hubstaff-ruby&lt;/code&gt; to your Gemfile and &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#Gemfile&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hubstaff-ruby&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;git: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;https://github.com/hookops/hubstaff-ruby.git&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 2:&lt;/strong&gt; Get your &lt;a href=&quot;https://developer.hubstaff.com/my_apps&quot;&gt;HUBSTAFF_APP_TOKEN&lt;/a&gt;, and add it to your to your &lt;code class=&quot;highlighter-rouge&quot;&gt;.env&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 3:&lt;/strong&gt; Require files from the &lt;code class=&quot;highlighter-rouge&quot;&gt;hubstaff-ruby&lt;/code&gt; gem in your Rails environment; before you initialize
+the Rails application. And then load your environment variables.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#environment.rb&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
+&lt;span class=&quot;nf&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hubstaff&quot;&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Dotenv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;load&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;.env&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;Rails&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;initialize!&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 4:&lt;/strong&gt; Define your routes to handle authentication and
+retrieving data from Hubstaff.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#routes.rb&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/pages/integration&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;pages#integration&quot;&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#hubstaff email/password form&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;post&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/pages/integration&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;pages#integration&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;as: :integration&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#process email/password&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/pages/screenshots&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;pages#screenshots&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;as: :screenshots&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#display screenshots&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;get&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;/pages/activities&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;pages#activities&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;as: :activities&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#display activities&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 5:&lt;/strong&gt; Define actions in your pages controller.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#pages_controller.rb&lt;/span&gt;
+
+&lt;span class=&quot;kp&quot;&gt;include&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Hubstaff&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Hubstaff&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;ENV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;HUBSTAFF_APP_TOKEN&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;integration&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:hubstaff_email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;present?&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:hubstaff_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;].&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;present?&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#check if hubstaff email/password is submitted and grab it on post request&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@hubstaff_email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:hubstaff_email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@hubstaff_password&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:hubstaff_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;authenticate_and_save_auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@hubstaff_email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@hubstaff_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#then authenticate and save the auth_token&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;redirect_to&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;root_path&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;notice: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Successfully Connected To Hubstaff&quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:integration&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;alert: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Unable To Connect To Hubstaff&quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;authenticate_and_save_auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;client_user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;User&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;find_by_email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;current_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;authenticate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@hubstaff_email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;vi&quot;&gt;@hubstaff_password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;client_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;hubstaff_auth_token&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;auth_token&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#you&#39;ll need a migration to add hubstaff_auth_token to User model&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;client_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;save!&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;screenshots&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#retrieve screenshots for display in your app&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;current_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;hubstaff_auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;present?&lt;/span&gt;
+    &lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;auth_token&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;current_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;hubstaff_auth_token&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@hubstaff_screenshots&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;screenshots&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2016-09-29&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2016-10-01&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;projects: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;112761&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:screenshots&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:integration&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;alert: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Please Connect To Hubstaff&quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;activities&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;#retrieve activities for display in your app&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;current_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;hubstaff_auth_token&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;present?&lt;/span&gt;
+    &lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;auth_token&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;current_user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;hubstaff_auth_token&lt;/span&gt;
+    &lt;span class=&quot;vi&quot;&gt;@hubstaff_activities&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;HUBSTAFF_CLIENT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;activities&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2016-09-29&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2016-10-01&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;users: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;61188&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:activities&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;render&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;:integration&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;ss&quot;&gt;alert: &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Please Connect To Hubstaff&quot;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Step 6: [Your Turn]&lt;/strong&gt; Create forms that your users can pass the
+required parameters into, so that they retrieve &amp;amp; display the exact data they
+want.&lt;/p&gt;
+
+&lt;h4 id=&quot;guidelines&quot;&gt;&lt;strong&gt;Guidelines&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Use the following guides for getting things done, programming well, and
+programming in style.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/thoughtbot/guides/blob/master/protocol&quot;&gt;Protocol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/thoughtbot/guides/blob/master/best-practices&quot;&gt;Best Practices&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/thoughtbot/guides/blob/master/style&quot;&gt;Style&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;deploying&quot;&gt;&lt;strong&gt;Deploying&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;If you have previously run the &lt;code class=&quot;highlighter-rouge&quot;&gt;./bin/setup&lt;/code&gt; script,
+you can deploy to staging and production with:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;    &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;./bin/deploy staging
+    &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;./bin/deploy production&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;bonus-useful-ruby-gems-every-rails-developer-should-know&quot;&gt;&lt;strong&gt;BONUS: Useful Ruby gems every Rails developer should know.&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;There are several Rails gems that will make you an extremely productive Rails developer and help you produce high quality code. These &lt;a href=&quot;https://infinum.co/the-capsized-eight/articles/a-gem-for-every-occasion-11-great-ruby-libraries-we-use-on-every-project&quot;&gt;11 Rails libraries&lt;/a&gt; and other alternatives are useful for every occasion.&lt;/p&gt;
+
+&lt;p&gt;In order to help stakeholders make better business decisions and get a good ROI from the software you build, you must implement analytics, onboarding, and marketing automation as well.&lt;/p&gt;
+
+&lt;p&gt;For analytics, Segment.io gives you the ability to aggregate data from several analytics providers, including Mixpanel and Google Analytics. You can &lt;a href=&quot;https://robots.thoughtbot.com/segment-io-and-ruby&quot;&gt;create an analytics facade&lt;/a&gt; to pass data to Segment.io and track every user interaction in your Rails app.&lt;/p&gt;
+
+&lt;p&gt;You can’t just deliver a project and expect users to know how to use it on their first encounter. To improve engagement, user adoption and retention rates, you need personalized onboarding flows.&lt;/p&gt;
+
+&lt;p&gt;You can  provide a better onboarding experience in your Rails app with &lt;a href=&quot;https://github.com/appcues/appcues-rails&quot;&gt;Appcues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If your Rails app is for internal use only, you don’t have to worry about marketing automation at all. When you’re working on a project that’s meant for consumers, you must implement marketing automation because the number one problem product creators face is distribution.&lt;/p&gt;
+
+&lt;p&gt;The three primary ways to implement marketing automation and help your business reach more potential customers is through social sharing, email marketing and built-in referrals. Integrating social sharing is easy; you can use &lt;a href=&quot;https://github.com/hermango/shareable&quot;&gt;shareable&lt;/a&gt; or any other social sharing Rails gem.&lt;/p&gt;
+
+&lt;p&gt;There are several options for transactional emails in Rails, but I’d recommend you take a good look at those that allow you to send behavior-based messages. &lt;a href=&quot;https://github.com/DripEmail/drip-ruby&quot;&gt;Drip&lt;/a&gt;,  &lt;a href=&quot;https://github.com/customerio/customerio-ruby&quot;&gt;Customer.io&lt;/a&gt; and &lt;a href=&quot;https://github.com/intercom/intercom-rails&quot;&gt;Intercom&lt;/a&gt; are good options for email marketing automation in your Rails app.&lt;/p&gt;
+
+&lt;p&gt;Getting your current customers to refer others to you is a great way to grow your online business. It’s easy to implement referral marketing with Ambassador, but that’s a little pricy. Alternatives for baking referrals into your Rails app include &lt;a href=&quot;https://github.com/alexlevin/rack-affiliates&quot;&gt;Rack Affiliates&lt;/a&gt; and &lt;a href=&quot;https://github.com/scambra/devise_invitable&quot;&gt;DeviseInvitable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Obviously, you can’t do business online without a way to accept payments. To accept payments with Stripe, you can use &lt;a href=&quot;https://github.com/peterkeen/payola&quot;&gt;Payola&lt;/a&gt; or &lt;a href=&quot;https://github.com/andrewculver/koudoku&quot;&gt;Koudoku&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s still more to learn, but now that you’ve familiarize yourself with with Ruby and Rails, &lt;a href=&quot;/jumpstart-dev-career.html&quot;&gt;&lt;strong&gt;use this 2-step backdoor strategy to jumpstart your web development career&lt;/strong&gt;&lt;/a&gt;, even before you master Ruby and Rails topics, concepts and techniques.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Mar 2017 06:25:00 -0500</pubDate>
+        <link>http://blog.excelwithcode.com/rails-with-suspenders.html</link>
+        <guid isPermaLink="true">http://blog.excelwithcode.com/rails-with-suspenders.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Practical Rails 5 App In One Hour – Part 1</title>
+        <description>&lt;p&gt;There’s no better way to learn a new programming language, framework or skill than to apply what you’ve studied to practical projects. However, it can be difficult to find commercial projects you can work on to improve your Ruby on Rails skills.&lt;/p&gt;
+
+&lt;p&gt;It’s likely you’ve postponed building something tangible that you can show off to your friends and potential employers because everything becomes a slog after you’ve learned the basics of Ruby and Rails.&lt;/p&gt;
+
+&lt;p&gt;Instead, you end up reading every tutorial about the latest Ruby gems and SQL optimization techniques, making things even more complex.&lt;/p&gt;
+
+&lt;p&gt;If you’ve taken Ruby on Rails courses, read dozens of books, and still feel like you need to memorize the core Ruby classes before you can call yourself a Rails developer, you’ll be pleased to know that there are just five ways to use your new found skills and knowledge.&lt;/p&gt;
+
+&lt;p&gt;When you’re hired as a Rails developer to create value for both offline and online businesses, there are five possible ways to achieve that. Let’s discuss the five practical Ruby on Rails projects you’ll ever be tasked to build, the stack you could use plus gems you could use to speed up your development process.&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-use-rails-to-build-brochure-sites&quot;&gt;&lt;strong&gt;You can use Rails to build brochure sites.&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Businesses have used brochures to present themselves in various situations to prospective buyers since printers were invented. Salespeople leave them behind after a visit with a prospective buyer, send them through the mail or stuck them under windshield wipers to show their products and services.&lt;/p&gt;
+
+&lt;p&gt;The most important thing that a brochure accomplishes is convince people to contact the company about their offerings. While paper brochures are limited to six panels, you can use Rails to build brochure sites with pages of information for prospective buyers to explore.&lt;/p&gt;
+
+&lt;p&gt;Brochure sites aren’t good at generating leads and sales for businesses, but they do a fantastic job of supporting salespeople, who can refer prospects to it to learn more about products and services. You’ll also build brochure sites to provide contact information about a company, help visitors find the location of physical stores, and establish a company’s brand image.&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-use-rails-to-build-publication-sites&quot;&gt;&lt;strong&gt;You can use Rails to build publication sites.&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;A typical publication site offers original and curated information for prospects and customers to consume. Examples of publication sites include Mashable, Youtube and Code School. If you’ve ever built a blog with Rails, you’re already familiar with how publication sites work.&lt;/p&gt;
+
+&lt;p&gt;They provide content in a variety of formats and media, such as text, video and audio.
+The goods for sale on publication sites are either original or curated online content, and they make money through subscriptions, donations, and advertisements.&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-use-rails-to-build-online-stores-ecommerce&quot;&gt;&lt;strong&gt;You can use Rails to build online stores (ecommerce).&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Amazon, Etsy, eBay, information marketers and book authors use online stores to sell one or more products. Online stores (or Ecommerce sites) allow visitors to purchase a product, using any agreed-upon currency.&lt;/p&gt;
+
+&lt;p&gt;Online stores are different from publication sites and SaaS apps in that they don’t provide the product or service directly. Instead, you’d either download a digital product from an online store or get a physical product shipped to you after your purchase.&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-use-rails-to-build-consultative-sites&quot;&gt;&lt;strong&gt;You can use Rails to build consultative sites.&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Consultative sites are built to support salespeople through long business-to-business sales cycles. They help prospective buyers educate themselves about the problems they have and the solutions available to them until they are ready to make a purchase decision.&lt;/p&gt;
+
+&lt;p&gt;You’ll build a consultative site for a company that delivers complex or expensive products and services. When multiple people are involved in the decision to purchase a product or service, you’ll need a consultative site.&lt;/p&gt;
+
+&lt;p&gt;Your primary goal when building a consultative site is to provide guidance because it may take several days, weeks or months to sell complex offers.&lt;/p&gt;
+
+&lt;h4 id=&quot;you-can-use-rails-to-build-online-services-saas-apps&quot;&gt;&lt;strong&gt;You can use Rails to build online services (SaaS apps).&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Applications like Pivotal Tracker, GitHub, and Basecamp were once delivered through desktop software only, but they’ve been replaced by online services you can access in your favorite browser.&lt;/p&gt;
+
+&lt;p&gt;Today, you can manage your finances, socialize with friends and family, organize your project ideas, and communicate with your teammates from the comfort of your browser.&lt;/p&gt;
+
+&lt;p&gt;Rails is a perfect framework for building these kinds of online services (or SaaS apps) in almost every industry. An online service could be used by just a company’s employees or could be productized and made available to other businesses to purchase. In either case, you’re delivering a product with the online service and customers must be granted access before they can use the product.&lt;/p&gt;
+
+&lt;h4 id=&quot;choose-your-customer-creation-formula&quot;&gt;&lt;strong&gt;Choose Your Customer Creation Formula&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;If you’re familiar with Brian Massey’s book, &lt;em&gt;Your Customer Creation Equation&lt;/em&gt;, will recognize the practical Rails projects discussed in this article as customer creation formulas. When building a Rails application for your client or for your own business, you’ll choose the right combination of formulas to help get more leads, triers or customers.&lt;/p&gt;
+
+&lt;p&gt;The right combination will depend on how the business makes money. That means for one client, you might build an online store and a publication site, and for another, you might build a SaaS app and a brochure site. Regardless of how you use Rails, you must implement specific features to turn your coffee and code into an asset.&lt;/p&gt;
+
+&lt;p&gt;Now, let me show you how to build Ruby on Rails applications that don’t suck.&lt;/p&gt;
+
+&lt;h4 id=&quot;choose-your-default-rails-5-stack&quot;&gt;&lt;strong&gt;Choose Your Default Rails 5 Stack&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;One of the main reasons why Rails gained traction quickly is due to the default stack. New developers don’t have to make major decisions about what to include in their application’s infrastructure. That makes it easy to ship useful applications quickly.&lt;/p&gt;
+
+&lt;p&gt;However, as you gain experience with the framework and become more knowledgeable about what makes web applications stand the test of time, you find yourself making substitutions and additions.&lt;/p&gt;
+
+&lt;p&gt;For instance, Rails comes with MiniTest for testing, but you substitute that for RSpec because you can recite all the RSpec matchers in your sleep and everyone on your team already uses RSpec.&lt;/p&gt;
+
+&lt;p&gt;Which means you don’t have to worry about someone breaking stuff because they don’t understand what your tests are doing. And the fact that you can compliment RSpec with Shoulda-Matchers makes it a no brainer to stick to what you already know.&lt;/p&gt;
+
+&lt;p&gt;After shipping a few applications, you realize that you always include the same gems as part of your set up process, even before you start working on the core functionality of the application.&lt;/p&gt;
+
+&lt;p&gt;Eventually you become frustrated with your setup process because you keep doing the same thing over and over. Although you prefer your application a certain way, you can’t stand spending an entire day making things just right before you get to the fun part.&lt;/p&gt;
+
+&lt;p&gt;In the name of productivity, you start looking for a better way to bootstrap new Rails applications.&lt;/p&gt;
+
+&lt;p&gt;You can set up your Rails app the same way every time &lt;a href=&quot;http://everydayrails.com/2011/02/28/rails-3-application-templates.html&quot;&gt;using a template&lt;/a&gt; that meets only your preferences. Or you can learn to use another stack that’s not an exact match for your preferences, but good enough to get the job done with minor tweaks.&lt;/p&gt;
+
+&lt;p&gt;I prefer to use &lt;a href=&quot;https://github.com/thoughtbot/suspenders&quot;&gt;Suspenders&lt;/a&gt; to bootstrap new Rails applications instead of creating my own template mainly because it’s maintained by a team that’s well respected in the Rails community.&lt;/p&gt;
+
+&lt;p&gt;You don’t need any convincing that using Suspenders is better than creating and maintaining your own template once you take a look at Suspenders’ Gemfile and README.&lt;/p&gt;
+
+&lt;p&gt;Before I started using Suspenders, it never occurred to me that I needed a staging environment. I’d just deploy the application into production after completing a major feature, only to find that something that worked on my machine doesn’t work in production.&lt;/p&gt;
+
+&lt;p&gt;Since I started using a staging environment, I always get a chance to fix things before the end users are exposed to the application.&lt;/p&gt;
+
+&lt;p&gt;Additionally, Suspenders comes with Dotenv for loading environment variables, which prevents you from accidentally exposing credentials for external services; you also get Web Console for better debugging via an in-browser IRB console; all of which are already configured and ready to go when you generate a new Rails app with Suspenders.&lt;/p&gt;
+
+&lt;p&gt;I’d bet none of the tutorials you completed while learning Rails mentioned the importance of integrating analytics tools into every Rails apps you work on. I didn’t think about that until I saw Segment listed as one of the goodies included in Suspenders.&lt;/p&gt;
+
+&lt;p&gt;Of course Suspenders has more to it than the things I’ve mentioned above. But I wanted to highlight those because they are the things I initially overlooked when learning and working with Rails.&lt;/p&gt;
+
+&lt;h4 id=&quot;getting-started-with-suspenders&quot;&gt;&lt;strong&gt;Getting started with Suspenders&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;You can run &lt;code class=&quot;highlighter-rouge&quot;&gt;gem install suspenders&lt;/code&gt; to install the gem or &lt;code class=&quot;highlighter-rouge&quot;&gt;gem update suspenders&lt;/code&gt; to grab the latest version if you have an older one.&lt;/p&gt;
+
+&lt;p&gt;I already have an older version installed, so I’ll update and then delete the previous one.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;gem update suspenders
+Updating installed gems
+Updating suspenders
+Fetching: suspenders-1.25.0.gem &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;100%&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+...
+Gems updated: suspenders
+&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;gem uninstall suspenders
+
+Select gem to uninstall:
+ 1. suspenders-1.21.0
+ 2. suspenders-1.25.0
+ 3. All versions
+&lt;span class=&quot;gp&quot;&gt;&amp;gt; &lt;/span&gt;1
+Successfully uninstalled suspenders-1.21.0&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now choose a name for your project, then run &lt;code class=&quot;highlighter-rouge&quot;&gt;suspenders projectname&lt;/code&gt;. That will create a Rails app in &lt;code class=&quot;highlighter-rouge&quot;&gt;projectname&lt;/code&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;suspenders messenger
+create
+create  README.md
+create  Rakefile
+create  config.ru
+create  .gitignore
+create  Gemfile
+create  app
+...
+create  .ruby-version
+run  bundle install
+Fetching gem metadata from https://rubygems.org/.........
+Fetching version metadata from https://rubygems.org/..
+Resolving dependencies...
+....
+append  Rakefile
+Congratulations! You just pulled our suspenders.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;You’ll most likely have a problem with connecting to PostgresSQL during the creation of your Rails app; make sure you have PostgresSQL installed and running.&lt;/p&gt;
+
+&lt;p&gt;Even then, you still need to provide a username and password for connecting to Postgres, otherwise &lt;code class=&quot;highlighter-rouge&quot;&gt;db:create&lt;/code&gt; won’t work.&lt;/p&gt;
+
+&lt;p&gt;We can use Dotenv to supply those credentials, along with a secret token.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; ./messenger
+&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;touch .env.development
+&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;rake secret&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Open &lt;code class=&quot;highlighter-rouge&quot;&gt;.env.development&lt;/code&gt; and add your configuration.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;#.env.development&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;SECRET_KEY_BASE&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;ea9d0bb08026b291630018ad7ee61f8ca277590302abf424bae835b27fe7ae9da776a4f59aadb5df47438a32d67ee362409a22abf4c575e1e9248f51a08061c2&quot;&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;DB_USERNAME&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rkcudjoe&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;DB_PASSWORD&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;devrkcudjoe&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Then update &lt;code class=&quot;highlighter-rouge&quot;&gt;database.yml&lt;/code&gt; with your password and username as such:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;#config/database.yml&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
+&lt;span class=&quot;nf&quot;&gt;username&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;sx&quot;&gt;%= ENV[&quot;DB_USERNAME&quot;] %&amp;gt;
+password: &amp;lt;%=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;ENV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;DB_PASSWORD&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now, create your developement and test databases, run a migration for &lt;code class=&quot;highlighter-rouge&quot;&gt;delayed_job&lt;/code&gt; and restart your server. You should see the Rails welcome page on port 5000 after that.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;rake db:create:all
+&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;rake db:migrate
+&lt;span class=&quot;gp&quot;&gt;localhost% &lt;/span&gt;foreman start&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Now that you’ve setup your Rails 5 stack, why don’t you go ahead and move on to part two where you’ll &lt;a href=&quot;/rails-with-suspenders.html&quot;&gt;&lt;strong&gt;build a practical Rails 5 app, using Suspenders stack and other useful Ruby and Rails gems.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Feb 2017 06:25:00 -0500</pubDate>
+        <link>http://blog.excelwithcode.com/build-rails-app.html</link>
+        <guid isPermaLink="true">http://blog.excelwithcode.com/build-rails-app.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Find Uber-Profitable SaaS Customers</title>
@@ -184,7 +617,7 @@
 
 &lt;p&gt;How do professional software developers jump ahead from their current position WITHOUT being “language agnostic” and learning half-dozen other programming languages, just in case a potential client (or full-time employer) needed it?&lt;/p&gt;
 
-&lt;p&gt;For those of you who don’t know, allow me to summarize what I learned from Patrick McKenzie, Godfather of the Internet (Currently @ Atlas by Stripe).&lt;/p&gt;
+&lt;p&gt;For those of you who don’t know, &lt;a href=&quot;http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/&quot;&gt;allow me to summarize what I learned&lt;/a&gt; from Patrick McKenzie, Godfather of the Internet (Currently @ Atlas by Stripe).&lt;/p&gt;
 
 &lt;p&gt;Ruby and Rails developers who’re able to create a remarkable career in software development focus on JUST THREE THINGS, the same three things that drive most hiring and promotion decisions at business of all sizes, including startups and F500 companies.&lt;/p&gt;
 
@@ -321,9 +754,11 @@ Need/Problem/Opportunity → User Stories → Requirement Specification → Tech
 
 &lt;p&gt;And ship TWO Ruby apps tonight: &lt;a href=&quot;https://www.getdrip.com/forms/51176020/submissions/new&quot; data-drip-show-form=&quot;51176020&quot;&gt;&lt;strong&gt;Download my RSpec test cases&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;There’s nothing more to read here. Download the test cases above and start modeling the pros tonight. You’ll be glad you did.&lt;/p&gt;
+&lt;p&gt;There’s nothing more to read here.&lt;/p&gt;
+
+&lt;p&gt;Download the test cases above and start modeling the pros tonight. You’ll be glad you did.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 06 Feb 2017 02:00:00 -0500</pubDate>
+        <pubDate>Wed, 08 Feb 2017 02:00:00 -0500</pubDate>
         <link>http://blog.excelwithcode.com/working-with-rails.html</link>
         <guid isPermaLink="true">http://blog.excelwithcode.com/working-with-rails.html</guid>
         
@@ -346,7 +781,7 @@ Need/Problem/Opportunity → User Stories → Requirement Specification → Tech
 
 &lt;p&gt;You’ll start delivering business goals with your software, not just features, from day one. And you’ll avoid failure as a developer tasked with building software that’s profitable.&lt;/p&gt;
 
-&lt;h3 id=&quot;common-software-planning-and-delivery-problems&quot;&gt;&lt;strong&gt;Common Software Planning and Delivery Problems&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;common-software-planning-and-delivery-problems&quot;&gt;&lt;strong&gt;Common software planning and delivery problems&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;You can correct me if I’m wrong.&lt;/p&gt;
 
@@ -396,7 +831,7 @@ It’s not because they run out of cash (the #2 reason for failure).&lt;/p&gt;
 
 &lt;p&gt;You’ll figure out what you need in order to build a solution people will gladly pay for. And automagically solve the #2 reason for commercial product failure going forward.&lt;/p&gt;
 
-&lt;h3 id=&quot;ask-these-4-questions-before-you-build-anything&quot;&gt;&lt;strong&gt;Ask These 4 Questions Before You Build Anything&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&quot;ask-these-4-questions-before-you-build-anything&quot;&gt;&lt;strong&gt;Ask these 4 questions before you build anything.&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;You’ve probably heard that customers don’t buy drills, they buy holes.&lt;/p&gt;
 
@@ -416,7 +851,7 @@ It’s not because they run out of cash (the #2 reason for failure).&lt;/p&gt;
 
 &lt;p&gt;Before you break ground on new software products or add more features to an existing product, you must figure out the &lt;a href=&quot;https://medium.com/the-job-to-be-done&quot;&gt;Jobs-To-Be-Done&lt;/a&gt;. Asking these 4 questions will help you map every feature to a specific job that you and your customers want to get done.&lt;/p&gt;
 
-&lt;h4 id=&quot;question-1-why-are-we-doing-this&quot;&gt;&lt;strong&gt;Question #1: Why Are We Doing This?&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;question-1-why-are-we-doing-this&quot;&gt;&lt;strong&gt;Question #1: Why are we doing this?&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;This is where you define the problem to be solved, not the solution.&lt;/p&gt;
 
@@ -427,7 +862,7 @@ In case you’ve forgotten, it’s because they start with a solution, without f
 
 &lt;p&gt;For instance, if you’re building an A/B testing software, your why could be because you want to help your customers increase conversion rate by 30% within three months of using your product.&lt;/p&gt;
 
-&lt;h4 id=&quot;question-2-who-are-the-consumers-of-our-product&quot;&gt;&lt;strong&gt;Question #2: Who Are The Consumers Of Our Product?&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;question-2-who-are-the-consumers-of-our-product&quot;&gt;&lt;strong&gt;Question #2: Who are the consumers of our product?&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;In order to deliver high-quality products, you must understand who your customers are and what kind of value they are looking for from your product.&lt;/p&gt;
 
@@ -441,7 +876,7 @@ In case you’ve forgotten, it’s because they start with a solution, without f
 
 &lt;p&gt;You have to define all three types of customers in order, and what their needs are before you implement features. Your answer to this question should be specific, such as Joanna, the direct response copywriter.&lt;/p&gt;
 
-&lt;h4 id=&quot;question-3-how-should-our-customers-behaviour-change&quot;&gt;&lt;strong&gt;Question #3: How Should Our Customer’s Behaviour Change?&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;question-3-how-should-our-customers-behaviour-change&quot;&gt;&lt;strong&gt;Question #3: How should our customer’s behaviour change?&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;The features you implement in your software products should help your customers change their behavior, especially your primary customers. You’ll focus on activities that your customers must do in order to solve their problems.&lt;/p&gt;
 
@@ -449,7 +884,7 @@ In case you’ve forgotten, it’s because they start with a solution, without f
 
 &lt;p&gt;Testing more headlines and call-to-actions is an example of behavior change for users of your A/B testing software.&lt;/p&gt;
 
-&lt;h4 id=&quot;question-4-what-can-we-do-to-guarantee-results-for-our-customers&quot;&gt;&lt;strong&gt;Question #4: What Can We Do To Guarantee Results For Our Customers?&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;question-4-what-can-we-do-to-guarantee-results-gor-our-customers&quot;&gt;&lt;strong&gt;Question #4: What can we do to guarantee results gor our customers?&lt;/strong&gt;&lt;/h4&gt;
 
 &lt;p&gt;This is where you finally think about your software deliverables and the things you must do in order to make each of your customers successful, including you, the product owner.&lt;/p&gt;
 
@@ -469,7 +904,7 @@ In case you’ve forgotten, it’s because they start with a solution, without f
 
 &lt;p&gt;Software developers who don’t avoid the common software planning and delivery problems, and refuse to define the Jobs-To-Be-Done, don’t build remarkable careers.&lt;/p&gt;
 
-&lt;p&gt;If you’d like to avoid these mistakes, so that you can also ship software products that are robust and uber-profitable, you should read &lt;strong&gt;&lt;a href=&quot;http://lab.hookops.com/working-with-rails.html&quot;&gt;3 Simple Ways Dropouts Succeed With Rails&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you’d like to avoid these mistakes, so that you can also ship software products that are robust and uber-profitable, you should read &lt;strong&gt;&lt;a href=&quot;/working-with-rails.html&quot;&gt;3 Simple Ways Dropouts Succeed With Rails&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Feb 2017 12:21:00 -0500</pubDate>
         <link>http://blog.excelwithcode.com/avoid-product-failures.html</link>

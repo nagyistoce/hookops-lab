@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "3 Ways Dropouts Succeed With Rails"
-date: 2017-02-06 02:00
+date: 2017-02-08 02:00
 permalink: working-with-rails.html
-keywords: "rails framework, rails startup, practical rails project"
-excerpt: "What's the ONE secret that'll help you compete with seasoned Rails developers for remote work? It starts with understanding why businesses kickstart software projects."
+keywords: "rails, rails startup, practical rails projects"
+excerpt: "What's the ONE secret that'll help you compete with seasoned Rails developers for remote work? It starts with understanding why businesses hire software developers."
 author: rkcudjoe
+image: 'images/succeed_with_rails.png'
 ---
 
 How do Rails pros convey that they don’t just know their way around Ruby and Rails projects, but they can also be of value when it comes to solving expensive business problems with software?
@@ -14,7 +15,7 @@ How do Rails pros convey that they don’t just know their way around Ruby and R
 How do professional software developers jump ahead from their current position WITHOUT being “language agnostic” and learning half-dozen other programming languages, just in case a potential client (or full-time employer) needed it?
 
 
-For those of you who don’t know, allow me to summarize what I learned from Patrick McKenzie, Godfather of the Internet (Currently @ Atlas by Stripe).
+For those of you who don’t know, [allow me to summarize what I learned](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) from Patrick McKenzie, Godfather of the Internet (Currently @ Atlas by Stripe).
 
 
 Ruby and Rails developers who’re able to create a remarkable career in software development focus on JUST THREE THINGS, the same three things that drive most hiring and promotion decisions at business of all sizes, including startups and F500 companies.
@@ -201,4 +202,6 @@ If you’re drawing blanks right now, don’t fret because I’ve got your back.
 
 And ship TWO Ruby apps tonight: <a href="https://www.getdrip.com/forms/51176020/submissions/new" data-drip-show-form="51176020">**Download my RSpec test cases**</a>.
 
-There’s nothing more to read here. Download the test cases above and start modeling the pros tonight. You'll be glad you did.
+There’s nothing more to read here.
+
+Download the test cases above and start modeling the pros tonight. You'll be glad you did.

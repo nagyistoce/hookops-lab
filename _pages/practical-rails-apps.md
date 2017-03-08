@@ -4,7 +4,6 @@ title: You're Good Enough To Build Practical Rails 5 and Ruby Apps
 sub_title: Start Here. Go Anywhere.
 image: '/images/your_virtual_rails_client.jpeg'
 ---
-
 You’ve taught yourself Ruby and Rails using books and online courses, but every time you figure something out, there’s a new issue. You get stuck, confused, and overwhelmed after learning for a while because there’s too much Ruby and Rails tutorials and courses.
 
 You don’t know how to go from tutorials and guides to actually build a useful app.
@@ -50,7 +49,7 @@ You’ve been hired by the CEO of an early-stage startup, Your Virtual Rails Cli
 
 You must build Ruby and Rails applications the startup can sell to customers and also build internal tools that’ll make the business run smoothly. Your Virtual Rails Client wants you to build four applications before the end of your 3-month contract, otherwise, your contract will not be extended.
 
-## <center><i style="color: #526acc; font-weight: bold;">Build FOUR Practical Ruby and Rails 5 Applications From Scratch, Without Being Overwhelmed or Bored</i></center>
+### <center><i style="color: #526acc; font-weight: bold;">Build FOUR Practical Ruby and Rails 5 Applications<br>Without Being Overwhelmed or Bored</i></center>
 
 ##### **_Practical Ruby App #1: Build A Ruby CLI App_**
 

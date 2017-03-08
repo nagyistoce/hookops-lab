@@ -6,6 +6,7 @@ permalink: avoid-product-failures.html
 keywords: "software project failure,software startup failure,software planning, software delivery"
 excerpt: "If you’re a SaaS founder or software developer who wants smartcuts for building uber-profitable products, this article shows you how to engineer a successful product launch without letting scope creep, wrong solutions and pet features burn out you or your team."
 author: rkcudjoe
+image: 'images/deadly_saas_sins.png'
 ---
 
 In the last 4+ years, I’ve studied dozens of successful product launches from founders who bootstrapped their SaaS products, documented the most effective online sales and marketing strategies, and learned about the unique challenges of shipping SaaS apps.
@@ -20,7 +21,7 @@ That's why in this article, you’ll discover:
 
 You’ll start delivering business goals with your software, not just features, from day one. And you'll avoid failure as a developer tasked with building software that's profitable.
 
-### **Common Software Planning and Delivery Problems**
+#### **Common software planning and delivery problems**
 
 You can correct me if I’m wrong.
 
@@ -71,7 +72,7 @@ You can solve all these problems and achieve your business goals by answering ju
 
 You’ll figure out what you need in order to build a solution people will gladly pay for. And automagically solve the #2 reason for commercial product failure going forward.
 
-### **Ask These 4 Questions Before You Build Anything**
+#### **Ask these 4 questions before you build anything.**
 
 You’ve probably heard that customers don’t buy drills, they buy holes.
 
@@ -91,7 +92,7 @@ Here’s how that'd work.
 
 Before you break ground on new software products or add more features to an existing product, you must figure out the [Jobs-To-Be-Done](https://medium.com/the-job-to-be-done). Asking these 4 questions will help you map every feature to a specific job that you and your customers want to get done.
 
-#### **Question #1: Why Are We Doing This?**
+#### **Question #1: Why are we doing this?**
 
 This is where you define the problem to be solved, not the solution.
 
@@ -102,7 +103,7 @@ Answering this question helps you identify true requirements and design better s
 
 For instance, if you’re building an A/B testing software, your why could be because you want to help your customers increase conversion rate by 30% within three months of using your product.
 
-#### **Question #2: Who Are The Consumers Of Our Product?**
+#### **Question #2: Who are the consumers of our product?**
 
 In order to deliver high-quality products, you must understand who your customers are and what kind of value they are looking for from your product.
 
@@ -117,7 +118,7 @@ The third group of customers have a stake in your business, but don’t actually
 You have to define all three types of customers in order, and what their needs are before you implement features. Your answer to this question should be specific, such as Joanna, the direct response copywriter.
 
 
-#### **Question #3: How Should Our Customer’s Behaviour Change?**
+#### **Question #3: How should our customer’s behaviour change?**
 
 The features you implement in your software products should help your customers change their behavior, especially your primary customers. You’ll focus on activities that your customers must do in order to solve their problems.
 
@@ -125,7 +126,7 @@ If you focus on the behavior changes you hope to achieve with your software, you
 
 Testing more headlines and call-to-actions is an example of behavior change for users of your A/B testing software.
 
-#### **Question #4: What Can We Do To Guarantee Results For Our Customers?**
+#### **Question #4: What can we do to guarantee results gor our customers?**
 
 This is where you finally think about your software deliverables and the things you must do in order to make each of your customers successful, including you, the product owner.
 
@@ -145,4 +146,4 @@ Another benefit of answering these four questions is that, the product owner/fou
 
 Software developers who don't avoid the common software planning and delivery problems, and refuse to define the Jobs-To-Be-Done, don't build remarkable careers.
 
-If you'd like to avoid these mistakes, so that you can also ship software products that are robust and uber-profitable, you should read **[3 Simple Ways Dropouts Succeed With Rails](http://lab.hookops.com/working-with-rails.html)**
+If you'd like to avoid these mistakes, so that you can also ship software products that are robust and uber-profitable, you should read **[3 Simple Ways Dropouts Succeed With Rails](/working-with-rails.html)**
