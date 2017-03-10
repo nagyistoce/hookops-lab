@@ -71,4 +71,6 @@ And that's exactly what I'm going condense and show in the next 7 days. You'll k
 
 <br>
 
-You're now prepared to use the "stairstep" approach to land your first freelance-consulting client or full-time web development position. Go ahead and enroll in this 7 day email course, and I'll show you the exact steps you need to follow in order to research and create a killer proposal: <a href="https://www.getdrip.com/forms/39681746/submissions/new" data-drip-show-form="39681746">**The "Startup Of You" On Ruby and Rails.**</a>
+You're now prepared to use the "stairstep" approach to land your first freelance-consulting client or full-time web development position. Go ahead, enroll in this 7 day email course, and I'll show you the exact steps you need to follow in order to research and provide killers solutions to your clients: <a href="https://www.getdrip.com/forms/39681746/submissions/new" data-drip-show-form="39681746">**The "Startup Of You" On Ruby and Rails.**</a>
+
+Inside this minicourse, a marketer-turned product developer reveals the **only nine RSA skills and impact metrics** professional software developers focus on when building uber-profitable software products that don't suck – hint: professional Rails developers like Fabio Akita, Ryan Bigg and Peter Cooper use these to stand out from their peers.
