@@ -4,10 +4,11 @@ title: "Jumpstart Your Web Development Career"
 date: 2017-03-08 06:25
 permalink: jumpstart-dev-career.html
 keywords: "practical rails 5 app, rails 5 examples, rails 5 tutorials"
-excerpt: "You'll know how you can also use the briefcase technique plus the stairstep approach to land your first freelance-consulting client, then leverage that into bigger or better opportunities."
+excerpt: "Let's look at how you can also use the briefcase technique plus the stairstep approach to land your first freelance-consulting client, and then leverage that into bigger or better opportunities."
 author: rkcudjoe
 image: '/images/jumpstart_career.png'
 ---
+
 If you're struggling to market yourself as a qualified candidate seeking a full-time Rails developer position, you're about to uncover one of most effective strategies for breaking into the software development industry.
 
 Because you're reading this, there's good chance you're currently in one of these situations...

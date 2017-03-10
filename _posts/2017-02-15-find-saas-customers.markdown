@@ -4,7 +4,7 @@ title: "Find Uber-Profitable SaaS Customers"
 date: 2017-02-15 10:45
 permalink: find-saas-customers.html
 keywords: "profitable SaaS customers, capture exit traffic, install exit form"
-excerpt: "You’ve heard about their huge mailing lists. You’ve seen their busy blogs and overloaded Stripe dashboards. If you want more subscribers and more customers, capture exit traffic."
+excerpt: "You’ve heard about their huge mailing lists. You’ve seen their busy blogs and overloaded Stripe dashboards. If you want more subscribers and more customers, capture exit traffic and avoid these 3 traffic and conversion mistakes."
 author: rkcudjoe
 image: '/images/saas_customers.png'
 ---

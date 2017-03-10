@@ -4,7 +4,7 @@ title: "3 Ways Dropouts Succeed With Rails"
 date: 2017-02-08 02:00
 permalink: working-with-rails.html
 keywords: "rails, rails startup, practical rails projects"
-excerpt: "What's the ONE secret that'll help you compete with seasoned Rails developers for remote work? It starts with understanding why businesses hire software developers."
+excerpt: "What's the ONE secret that'll help you compete with seasoned Rails developers and build a remarkable career as a software developer? It starts with understanding why businesses hire software developers."
 author: rkcudjoe
 image: 'images/succeed_with_rails.png'
 ---

@@ -4,7 +4,7 @@ title: "Practical Rails 5 App In One Hour – Part 2"
 date: 2017-03-01 06:25
 permalink: rails-with-suspenders.html
 keywords: "practical rails 5 app, rails 5 examples, rails 5 tutorials"
-excerpt: "Setup a default Rails 5 application so let's go ahead and add a unique feature to this application in 1 hour or less."
+excerpt: "You've already setup a default Rails 5 application so let's go ahead and add a unique feature to your application, and release your first web app in 1 hour or less."
 author: rkcudjoe
 image: 'images/rails_app.png'
 ---
