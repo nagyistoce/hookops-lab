@@ -4,7 +4,7 @@ title: "Practical Rails 5 App In One Hour – Part 1"
 date: 2017-02-22 06:25
 permalink: build-rails-app.html
 keywords: "practical rails 5 app, rails 5 examples, rails 5 tutorials"
-excerpt: "Let’s discuss the five practical Ruby on Rails projects you’ll ever be tasked to build, plus the stack and Rubby libraries you could use to speed up your development process."
+excerpt: "Let’s discuss the five practical Ruby on Rails projects you’ll ever be tasked to build, plus the stack and Ruby libraries you could use to speed up your development process."
 author: rkcudjoe
 image: 'images/rails_app.png'
 ---
